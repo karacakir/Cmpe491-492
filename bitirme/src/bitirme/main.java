@@ -23,15 +23,15 @@ import sun.security.ssl.HandshakeMessage;
 public class main {
 	public static void main(String[] args) throws IOException {
 
+
+		/*
+		* Uncomment the method you want to work with.
+		*/
+
+
 		//calculateWithDictionary();
 
 		calculateWithOurDatabase();
-		/*
-		 * BufferedReader br = new BufferedReader(new
-		 * InputStreamReader(System.in)); System.out.print(
-		 * "Enter Keyword to Search \n"); String s = br.readLine();
-		 * takeTweetsFromConsole(s); br.close()
-		 */
 
 		//readRates();
 
