@@ -1,0 +1,193 @@
+s=i s=izlemek s=sonra s=sanrm s=daha s=uzun s=sre s=kimse s=yok s=uzayd s=yok s=boyutlard s=ekmek s=yeltenmek s=herh?lde i sbi=i_izlemek sbi=izlemek_sonra sbi=sonra_sanrm sbi=sanrm_daha sbi=daha_uzun sbi=uzun_sre sbi=sre_kimse sbi=kimse_yok sbi=yok_uzayd sbi=uzayd_yok sbi=yok_boyutlard sbi=boyutlard_ekmek sbi=ekmek_yeltenmek sbi=yeltenmek_herh?lde 
+s=Allahm s=hepimize s=salkl s=huzur s=hayrl s=bol s=kazanl s=bir s=yl s=nasip s=etmek s=Bu s=souklarda s=nbet s=tutmak s=tm s=Mehmetiklere s=de s=sela s=olmak Alsbi=Allahm_hepimize sbi=hepimize_salkl sbi=salkl_huzur sbi=huzur_hayrl sbi=hayrl_bol sbi=bol_kazanl sbi=kazanl_bir sbi=bir_yl sbi=yl_nasip sbi=nasip_etmek sbi=etmek_Bu sbi=Bu_souklarda sbi=souklarda_nbet sbi=nbet_tutmak sbi=tutmak_tm sbi=tm_Mehmetiklere sbi=Mehmetiklere_de sbi=de_sela sbi=sela_olmak 
+s=bu s=kez s=de s=Interactive s=Media s=Awardsdan s=Outstanding s=Achievement s=Award s=ald busbi=bu_kez sbi=kez_de sbi=de_Interactive sbi=Interactive_Media sbi=Media_Awardsdan sbi=Awardsdan_Outstanding sbi=Outstanding_Achievement sbi=Achievement_Award sbi=Award_ald 
+s=bu s=ok s=gzeldir busbi=bu_ok sbi=ok_gzeldir 
+s=cnolann s=2006dan s=beri s=senaryo s=alt s=interstaller s=DallasBuyersClubtaki s=McConaugheyin s=kullandklaryla s=hzlandrd s=net cnsbi=cnolann_2006dan sbi=2006dan_beri sbi=beri_senaryo sbi=senaryo_alt sbi=alt_interstaller sbi=interstaller_DallasBuyersClubtaki sbi=DallasBuyersClubtaki_McConaugheyin sbi=McConaugheyin_kullandklaryla sbi=kullandklaryla_hzlandrd sbi=hzlandrd_net 
+s=cnbce s=iddetle s=tavsiye s=etmek cnsbi=cnbce_iddetle sbi=iddetle_tavsiye sbi=tavsiye_etmek 
+s=en s=sonunda s=yamur s=y?d s=bu s=hava s=baylyorum s=yaa ensbi=en_sonunda sbi=sonunda_yamur sbi=yamur_y?d sbi=y?d_bu sbi=bu_hava sbi=hava_baylyorum sbi=baylyorum_yaa 
+s=eskiehire s=girmek s=zer s=hadi s=bakalm essbi=eskiehire_girmek sbi=girmek_zer sbi=zer_hadi sbi=hadi_bakalm 
+s=ev s=tatil s=keyf? s=flashanaliz s=proje s=blog s=m s=dnt evsbi=ev_tatil sbi=tatil_keyf? sbi=keyf?_flashanaliz sbi=flashanaliz_proje sbi=proje_blog sbi=blog_m sbi=m_dnt 
+s=evet s=haklsn s=bence s=de s=eylemek s=First s=mobil s=tweet evsbi=evet_haklsn sbi=haklsn_bence sbi=bence_de sbi=de_eylemek sbi=eylemek_First sbi=First_mobil sbi=mobil_tweet 
+s=face s=de s=bi s=bi s=ak s=iiri s=paylatm s=ok s=gzeldi s=yha fasbi=face_de sbi=de_bi sbi=bi_bi sbi=bi_ak sbi=ak_iiri sbi=iiri_paylatm sbi=paylatm_ok sbi=ok_gzeldi sbi=gzeldi_yha 
+s=flaamenkce s=renmissin s=demek s=ya s=iki s=gnde flsbi=flaamenkce_renmissin sbi=renmissin_demek sbi=demek_ya sbi=ya_iki sbi=iki_gnde 
+s=Anasayfada s=se s=gorunce s=ekrann s=parlakln s=arttryorum s=namssz Ansbi=Anasayfada_se sbi=se_gorunce sbi=gorunce_ekrann sbi=ekrann_parlakln sbi=parlakln_arttryorum sbi=arttryorum_namssz 
+s=gayet s=gzel s=kolay s=ve s=anlalr gasbi=gayet_gzel sbi=gzel_kolay sbi=kolay_ve sbi=ve_anlalr 
+s=gn s=iinde s=zaman s=geirmek s=iin s=alternatif s=saylabilir gnsbi=gn_iinde sbi=iinde_zaman sbi=zaman_geirmek sbi=geirmek_iin sbi=iin_alternatif sbi=alternatif_saylabilir 
+s=gzel s=bir s=gn s=herey s=yol s=umarm s=byle s=olur s=hep gzsbi=gzel_bir sbi=bir_gn sbi=gn_herey sbi=herey_yol sbi=yol_umarm sbi=umarm_byle sbi=byle_olur sbi=olur_hep 
+s=gzeldi s=memnun s=kaldm s=ok gzsbi=gzeldi_memnun sbi=memnun_kaldm sbi=kaldm_ok 
+s=haha s=ok s=memnun s=olmak s=o s=zaman hasbi=haha_ok sbi=ok_memnun sbi=memnun_olmak sbi=olmak_o sbi=o_zaman 
+s=hayrl s=uurlu s=olmak hasbi=hayrl_uurlu sbi=uurlu_olmak 
+s=heh s=yleee s=tamam s=analiz s=etmek s=de s=bir s=grelim hesbi=heh_yleee sbi=yleee_tamam sbi=tamam_analiz sbi=analiz_etmek sbi=etmek_de sbi=de_bir sbi=bir_grelim 
+s=hep s=bu s=ekilde s=yazlsa s=keke s=rahat s=okumak s=akp s=gitmek hesbi=hep_bu sbi=bu_ekilde sbi=ekilde_yazlsa sbi=yazlsa_keke sbi=keke_rahat sbi=rahat_okumak sbi=okumak_akp sbi=akp_gitmek 
+s=hepsinii s=?zmir s=gtresim s=gelmek s=En s=azndan s=burda s=em s=aabiliyosunuz hesbi=hepsinii_?zmir sbi=?zmir_gtresim sbi=gtresim_gelmek sbi=gelmek_En sbi=En_azndan sbi=azndan_burda sbi=burda_em sbi=em_aabiliyosunuz 
+s=hi s=sevmek s=ama s=se s=muhteem hisbi=hi_sevmek sbi=sevmek_ama sbi=ama_se sbi=se_muhteem 
+s=Artk s=Ba s=de s=gzelce s=sabretmek Arsbi=Artk_Ba sbi=Ba_de sbi=de_gzelce sbi=gzelce_sabretmek 
+s=hogeldin s=Philae hosbi=hogeldin_Philae 
+s=ilk s=kt s=gnden s=beri s=nolur s=gitmek s=diye s=saykladm s=kadar s=varm s=gerek s=nterstaller s=ok s=gzel s=film s=tekrar s=tekrar s=gidilebilcek s=film ilsbi=ilk_kt sbi=kt_gnden sbi=gnden_beri sbi=beri_nolur sbi=nolur_gitmek sbi=gitmek_diye sbi=diye_saykladm sbi=saykladm_kadar sbi=kadar_varm sbi=varm_gerek sbi=gerek_nterstaller sbi=nterstaller_ok sbi=ok_gzel sbi=gzel_film sbi=film_tekrar sbi=tekrar_tekrar sbi=tekrar_gidilebilcek sbi=gidilebilcek_film 
+s=interstaller s=bir s=bayapt insbi=interstaller_bir sbi=bir_bayapt 
+s=interstaller s=durmak s=bakmak s=film s=gitmek s=mi s=abi s=cagdasdogan insbi=interstaller_durmak sbi=durmak_bakmak sbi=bakmak_film sbi=film_gitmek sbi=gitmek_mi sbi=mi_abi sbi=abi_cagdasdogan 
+s=interstaller s=hayatmn s=en s=iyi s=film s=voavvh insbi=interstaller_hayatmn sbi=hayatmn_en sbi=en_iyi sbi=iyi_film sbi=film_voavvh 
+s=interstaller s=izledike s=anlam s=kazanyor insbi=interstaller_izledike sbi=izledike_anlam sbi=anlam_kazanyor 
+s=interstaller s=muhteemmmmmmmmmm insbi=interstaller_muhteemmmmmmmmmm 
+s=interstaller s=tavsiye s=etmek insbi=interstaller_tavsiye sbi=tavsiye_etmek 
+s=interstaller s=yani s=yldzlararas s=film s=ise s=tam s=bir s=bilimkurgu s=sevmek s=iin s=bayapt s=mdb s=ilk s=10 s=u s=zorlamtrda s=kendi insbi=interstaller_yani sbi=yani_yldzlararas sbi=yldzlararas_film sbi=film_ise sbi=ise_tam sbi=tam_bir sbi=bir_bilimkurgu sbi=bilimkurgu_sevmek sbi=sevmek_iin sbi=iin_bayapt sbi=bayapt_mdb sbi=mdb_ilk sbi=ilk_10 sbi=10_u sbi=u_zorlamtrda sbi=zorlamtrda_kendi 
+s=isko s=atasz s=harika s=olmu s=ya s=ok s=beendim s=Be s=tebrik s=etmek issbi=isko_atasz sbi=atasz_harika sbi=harika_olmu sbi=olmu_ya sbi=ya_ok sbi=ok_beendim sbi=beendim_Be sbi=Be_tebrik sbi=tebrik_etmek 
+s=Ayrica s=Carlos s=Suaradiye s=aramak s=sper s=video s=var Aysbi=Ayrica_Carlos sbi=Carlos_Suaradiye sbi=Suaradiye_aramak sbi=aramak_sper sbi=sper_video sbi=video_var 
+s=iyi s=bayram s=Kideo s=Turkiye s=herkese s=iyi s=bayram s=dilmek iysbi=iyi_bayram sbi=bayram_Kideo sbi=Kideo_Turkiye sbi=Turkiye_herkese sbi=herkese_iyi sbi=iyi_bayram sbi=bayram_dilmek 
+s=iyikide s=okul s=olimpiyat s=almasna s=katlmamm s=iptal s=olmu s=D iysbi=iyikide_okul sbi=okul_olimpiyat sbi=olimpiyat_almasna sbi=almasna_katlmamm sbi=katlmamm_iptal sbi=iptal_olmu sbi=olmu_D 
+s=?zmir s=gtresim s=gelmek s=En s=azndan s=burda s=em s=aabiliyosunuz s=yahu ?zsbi=?zmir_gtresim sbi=gtresim_gelmek sbi=gelmek_En sbi=En_azndan sbi=azndan_burda sbi=burda_em sbi=em_aabiliyosunuz sbi=aabiliyosunuz_yahu 
+s=karikatrlerim s=ulamak s=m s=acaba s=penguen s=ok s=merak s=etmek kasbi=karikatrlerim_ulamak sbi=ulamak_m sbi=m_acaba sbi=acaba_penguen sbi=penguen_ok sbi=ok_merak sbi=merak_etmek 
+s=kaybettiim s=kulaklm s=bugn s=bulmak s=sonunda kasbi=kaybettiim_kulaklm sbi=kulaklm_bugn sbi=bugn_bulmak sbi=bulmak_sonunda 
+s=kocaman s=kitap s=sevmek kosbi=kocaman_kitap sbi=kitap_sevmek 
+s=konu s=olmad s=zaman s=ne s=gzel s=bir s=airmi kosbi=konu_olmad sbi=olmad_zaman sbi=zaman_ne sbi=ne_gzel sbi=gzel_bir sbi=bir_airmi 
+s=maallah s=hepimiz s=lazz s=maallah masbi=maallah_hepimiz sbi=hepimiz_lazz sbi=lazz_maallah 
+s=meyval s=kek s=de s=denemek mesbi=meyval_kek sbi=kek_de sbi=de_denemek 
+s=motorsiklet s=sevmek s=yamuru s=da s=sevmek mosbi=motorsiklet_sevmek sbi=sevmek_yamuru sbi=yamuru_da sbi=da_sevmek 
+s=Bayram s=yemek s=yemek s=yemek s=tatli s=tatli s=tatli Basbi=Bayram_yemek sbi=yemek_yemek sbi=yemek_yemek sbi=yemek_tatli sbi=tatli_tatli sbi=tatli_tatli 
+s=mutlu s=ok s=ilikilerde s=im musbi=mutlu_ok sbi=ok_ilikilerde sbi=ilikilerde_im 
+s=nas s=geti s=sertapb s=konser s=bakiiim nasbi=nas_geti sbi=geti_sertapb sbi=sertapb_konser sbi=konser_bakiiim 
+s=nasl s=yan s=nas s=ya s=eklemek s=ama s=Be s=Nazar s=messesinden nasbi=nasl_yan sbi=yan_nas sbi=nas_ya sbi=ya_eklemek sbi=eklemek_ama sbi=ama_Be sbi=Be_Nazar sbi=Nazar_messesinden 
+s=ne s=gzel s=bir s=gnd nesbi=ne_gzel sbi=gzel_bir sbi=bir_gnd 
+s=ne s=hz s=ama s=hel?l s=olmak nesbi=ne_hz sbi=hz_ama sbi=ama_hel?l sbi=hel?l_olmak 
+s=neyse s=Allah s=tadn s=bozmasn nesbi=neyse_Allah sbi=Allah_tadn sbi=tadn_bozmasn 
+s=neyseki s=gelmek s=hafta s=o s=Punc s=neyseki nesbi=neyseki_gelmek sbi=gelmek_hafta sbi=hafta_o sbi=o_Punc sbi=Punc_neyseki 
+s=of s=anacm s=bulgur s=pil?v s=yapm ofsbi=of_anacm sbi=anacm_bulgur sbi=bulgur_pil?v sbi=pil?v_yapm 
+s=off s=al s=Be s=de s=o s=kadar s=off s=balk s=m ofsbi=off_al sbi=al_Be sbi=Be_de sbi=de_o sbi=o_kadar sbi=kadar_off sbi=off_balk sbi=balk_m 
+s=oh s=oh s=ne s=guzel s=garant s=olmak s=tab s=?zmir ohsbi=oh_oh sbi=oh_ne sbi=ne_guzel sbi=guzel_garant sbi=garant_olmak sbi=olmak_tab sbi=tab_?zmir 
+s=Belki s=ehre s=bir s=interstellar s=gelmek s=philaenin s=67pye s=inme s=gibi s=olur s=bir s=gzel s=glmseriz Besbi=Belki_ehre sbi=ehre_bir sbi=bir_interstellar sbi=interstellar_gelmek sbi=gelmek_philaenin sbi=philaenin_67pye sbi=67pye_inme sbi=inme_gibi sbi=gibi_olur sbi=olur_bir sbi=bir_gzel sbi=gzel_glmseriz 
+s=okul s=koca s=bir s=alk oksbi=okul_koca sbi=koca_bir sbi=bir_alk 
+s=onlar s=ayr s=bi s=havas s=olmak s=be onsbi=onlar_ayr sbi=ayr_bi sbi=bi_havas sbi=havas_olmak sbi=olmak_be 
+s=oooooo s=hayrl s=olmak oosbi=oooooo_hayrl sbi=hayrl_olmak 
+s=perembe s=Niantanda s=oynamak s=Oh s=oh s=pek s=gzel pesbi=perembe_Niantanda sbi=Niantanda_oynamak sbi=oynamak_Oh sbi=Oh_oh sbi=oh_pek sbi=pek_gzel 
+s=pirinleri s=opendns s=ile s=kurtarabilirsn pisbi=pirinleri_opendns sbi=opendns_ile sbi=ile_kurtarabilirsn 
+s=romann s=erkek s=de s=okumak s=diye s=bir s=de s=gri s=renk s=karmlar rosbi=romann_erkek sbi=erkek_de sbi=de_okumak sbi=okumak_diye sbi=diye_bir sbi=bir_de sbi=de_gri sbi=gri_renk sbi=renk_karmlar 
+s=se s=sevmek s=burda s=takip s=devam sesbi=se_sevmek sbi=sevmek_burda sbi=burda_takip sbi=takip_devam 
+s=sevdiin s=biri s=se s=unutmak s=ne s=demek s=bilir s=mis sesbi=sevdiin_biri sbi=biri_se sbi=se_unutmak sbi=unutmak_ne sbi=ne_demek sbi=demek_bilir sbi=bilir_mis 
+s=seeneklerin s=altnda s=ileri s=tarih s=ulatr s=blmnden s=2150 s=ylna s=mail s=atmak sesbi=seeneklerin_altnda sbi=altnda_ileri sbi=ileri_tarih sbi=tarih_ulatr sbi=ulatr_blmnden sbi=blmnden_2150 sbi=2150_ylna sbi=ylna_mail sbi=mail_atmak 
+s=sohbet s=iki s=oy s=sohbet s=iki sosbi=sohbet_iki sbi=iki_oy sbi=oy_sohbet sbi=sohbet_iki 
+s=Beeniyoruz s=evet s=evet s=Ne s=sevmeyeceiz s=cano Besbi=Beeniyoruz_evet sbi=evet_evet sbi=evet_Ne sbi=Ne_sevmeyeceiz sbi=sevmeyeceiz_cano 
+s=sonunda s=twitter s=atm sosbi=sonunda_twitter sbi=twitter_atm 
+s=sorduum s=sorularn s=cevabn s=ok s=gzel s=alyorum s=ilgi s=iin s=teekkr s=etmek s=baarlarnzn s=devamn s=dilmek sosbi=sorduum_sorularn sbi=sorularn_cevabn sbi=cevabn_ok sbi=ok_gzel sbi=gzel_alyorum sbi=alyorum_ilgi sbi=ilgi_iin sbi=iin_teekkr sbi=teekkr_etmek sbi=etmek_baarlarnzn sbi=baarlarnzn_devamn sbi=devamn_dilmek 
+s=syleyecek s=sz s=bulamyorum s=mteri s=memnuniyet s=yzde s=yz s=burada sysbi=syleyecek_sz sbi=sz_bulamyorum sbi=bulamyorum_mteri sbi=mteri_memnuniyet sbi=memnuniyet_yzde sbi=yzde_yz sbi=yz_burada 
+s=tadella s=ak s=demek tasbi=tadella_ak sbi=ak_demek 
+s=tamam s=vodafone s=guzel s=alyor tasbi=tamam_vodafone sbi=vodafone_guzel sbi=guzel_alyor 
+s=true s=detective s=y?d s=Sherlock s=ksalar s=zaten s=izlemek s=bence s=true s=detectivede s=interstaller s=baro s=oynamak s=hem trsbi=true_detective sbi=detective_y?d sbi=y?d_Sherlock sbi=Sherlock_ksalar sbi=ksalar_zaten sbi=zaten_izlemek sbi=izlemek_bence sbi=bence_true sbi=true_detectivede sbi=detectivede_interstaller sbi=interstaller_baro sbi=baro_oynamak sbi=oynamak_hem 
+s=tutmak s=bu s=Gzn s=sevmek s=Firefox tusbi=tutmak_bu sbi=bu_Gzn sbi=Gzn_sevmek sbi=sevmek_Firefox 
+s=tm s=arkadalarma s=hayrl s=tezkere s=dilmek tmsbi=tm_arkadalarma sbi=arkadalarma_hayrl sbi=hayrl_tezkere sbi=tezkere_dilmek 
+s=ve s=dnyada s=en s=ok s=izlemek s=ovmak s=program s=gerek s=doru vesbi=ve_dnyada sbi=dnyada_en sbi=en_ok sbi=ok_izlemek sbi=izlemek_ovmak sbi=ovmak_program sbi=program_gerek sbi=gerek_doru 
+s=ve s=ook s=gzel s=yemek s=grntleri s=her s=ey s=tam s=oldu vesbi=ve_ook sbi=ook_gzel sbi=gzel_yemek sbi=yemek_grntleri sbi=grntleri_her sbi=her_ey sbi=ey_tam sbi=tam_oldu 
+s=Bilim s=kurgu s=seviyasanz s=interstaller s=bu s=zaman s=kadar s=yaplms s=en s=iyi s=film s=kesinlikle s=izlemek Bisbi=Bilim_kurgu sbi=kurgu_seviyasanz sbi=seviyasanz_interstaller sbi=interstaller_bu sbi=bu_zaman sbi=zaman_kadar sbi=kadar_yaplms sbi=yaplms_en sbi=en_iyi sbi=iyi_film sbi=film_kesinlikle sbi=kesinlikle_izlemek 
+s=www s=showhow s=net s=Sitem s=ile s=ilgilenmek wwsbi=www_showhow sbi=showhow_net sbi=net_Sitem sbi=Sitem_ile sbi=ile_ilgilenmek 
+s=yan s=yatm s=sekiz s=kadar s=sevmek yasbi=yan_yatm sbi=yatm_sekiz sbi=sekiz_kadar sbi=kadar_sevmek 
+s=yazlik s=bi s=mekandayim s=ucaga s=atlicam s=uzak s=gidicem s=oh yasbi=yazlik_bi sbi=bi_mekandayim sbi=mekandayim_ucaga sbi=ucaga_atlicam sbi=atlicam_uzak sbi=uzak_gidicem sbi=gidicem_oh 
+s=yemek s=her s=daim s=zlenebilir s=Bu s=ne s=bereket s=bir s=gn s=byle yesbi=yemek_her sbi=her_daim sbi=daim_zlenebilir sbi=zlenebilir_Bu sbi=Bu_ne sbi=ne_bereket sbi=bereket_bir sbi=bir_gn sbi=gn_byle 
+s=yeni s=nesllerin s=retme s=imk?n s=tandm s=tanttm s=yaasn yesbi=yeni_nesllerin sbi=nesllerin_retme sbi=retme_imk?n sbi=imk?n_tandm sbi=tandm_tanttm sbi=tanttm_yaasn 
+s=ok s=sevmek s=Be s=bu s=twitter s=yine s=gelicem oksbi=ok_sevmek sbi=sevmek_Be sbi=Be_bu sbi=bu_twitter sbi=twitter_yine sbi=yine_gelicem 
+s=ok s=teekkr s=etmek s=meyval s=kek s=de s=denemek oksbi=ok_teekkr sbi=teekkr_etmek sbi=etmek_meyval sbi=meyval_kek sbi=kek_de sbi=de_denemek 
+s=ok s=gzel s=muhteem s=bir s=hizmet s=teekkrler oksbi=ok_gzel sbi=gzel_muhteem sbi=muhteem_bir sbi=bir_hizmet sbi=hizmet_teekkrler 
+s=ok s=sevmek s=harbi s=olaydr s=o s=da s=dehet s=sper s=bir s=film oksbi=ok_sevmek sbi=sevmek_harbi sbi=harbi_olaydr sbi=olaydr_o sbi=o_da sbi=da_dehet sbi=dehet_sper sbi=sper_bir sbi=bir_film 
+s=ok s=Kr s=bugn s=Cu s=ok s=zevk s=bir s=mat s=85 s=kazandk oksbi=ok_Kr sbi=Kr_bugn sbi=bugn_Cu sbi=Cu_ok sbi=ok_zevk sbi=zevk_bir sbi=bir_mat sbi=mat_85 sbi=85_kazandk 
+s=Bir s=Romantik s=Bilim s=Hikayesi s=Rosetta s=ve s=Philaeye s=Mutluluklar Bisbi=Bir_Romantik sbi=Romantik_Bilim sbi=Bilim_Hikayesi sbi=Hikayesi_Rosetta sbi=Rosetta_ve sbi=ve_Philaeye sbi=Philaeye_Mutluluklar 
+s=ncesinde s=interstaller s=stne s=de s=Lucy s=izlemek s=daha s=bir s=gzel s=olmak s=Gemi s=olmak s=Welcome s=to s=club ncsbi=ncesinde_interstaller sbi=interstaller_stne sbi=stne_de sbi=de_Lucy sbi=Lucy_izlemek sbi=izlemek_daha sbi=daha_bir sbi=bir_gzel sbi=gzel_olmak sbi=olmak_Gemi sbi=Gemi_olmak sbi=olmak_Welcome sbi=Welcome_to sbi=to_club 
+s=zlemiim s=bu s=arky s=dinlemek s=ya zlsbi=zlemiim_bu sbi=bu_arky sbi=arky_dinlemek sbi=dinlemek_ya 
+s=nsanlarn s=kirletemedii s=tek s=ey s=vardr s=o s=da s=iyi s=kalp s=vicdandr nssbi=nsanlarn_kirletemedii sbi=kirletemedii_tek sbi=tek_ey sbi=ey_vardr sbi=vardr_o sbi=o_da sbi=da_iyi sbi=iyi_kalp sbi=kalp_vicdandr 
+s=nsanlk s=iin s=dnm s=noktas s=Philae s=kuyruk s=yldza s=inmek nssbi=nsanlk_iin sbi=iin_dnm sbi=dnm_noktas sbi=noktas_Philae sbi=Philae_kuyruk sbi=kuyruk_yldza sbi=yldza_inmek 
+s=nterstaller s=d?hil s=tm s=film s=alayabilen s=arkadaa s=sahip s=ok s=Kr s=D s=sedakarael ntsbi=nterstaller_d?hil sbi=d?hil_tm sbi=tm_film sbi=film_alayabilen sbi=alayabilen_arkadaa sbi=arkadaa_sahip sbi=sahip_ok sbi=ok_Kr sbi=Kr_D sbi=D_sedakarael 
+s=nterstaller s=kesin s=izlemek s=kesin s=efsane ntsbi=nterstaller_kesin sbi=kesin_izlemek sbi=izlemek_kesin sbi=kesin_efsane 
+s=nterstaller s=se s=nasil s=bir s=film s=oyle ntsbi=nterstaller_se sbi=se_nasil sbi=nasil_bir sbi=bir_film sbi=film_oyle 
+s=nterstaller s=torrente s=dm s=el s=titrediinden s=dowloada s=basamyorum s=haftalardr s=bu s=beklemek ntsbi=nterstaller_torrente sbi=torrente_dm sbi=dm_el sbi=el_titrediinden sbi=titrediinden_dowloada sbi=dowloada_basamyorum sbi=basamyorum_haftalardr sbi=haftalardr_bu sbi=bu_beklemek 
+s=nterstallerdan s=sonra s=Be s=1bilim s=adam s=saygm s=sonsuz s=2uzay s=fizii s=konu s=ok s=eksiim ntsbi=nterstallerdan_sonra sbi=sonra_Be sbi=Be_1bilim sbi=1bilim_adam sbi=adam_saygm sbi=saygm_sonsuz sbi=sonsuz_2uzay sbi=2uzay_fizii sbi=fizii_konu sbi=konu_ok sbi=ok_eksiim 
+s=nterstalleri s=nihayet s=izlemek s=Gzel s=film s=yapm s=ada s=3 s=ada s=1 s=saat s=konumadk s=Kafay s=anca s=toparladk ntsbi=nterstalleri_nihayet sbi=nihayet_izlemek sbi=izlemek_Gzel sbi=Gzel_film sbi=film_yapm sbi=yapm_ada sbi=ada_3 sbi=3_ada sbi=ada_1 sbi=1_saat sbi=saat_konumadk sbi=konumadk_Kafay sbi=Kafay_anca sbi=anca_toparladk 
+s=Bir s=kuyruk s=yldzn s=yzeyine s=inmek s=iin s=ancak s=bir s=mhendislik s=harikasna s=ihtiyacnz s=var s=tpk s=Philae s=gibi Bisbi=Bir_kuyruk sbi=kuyruk_yldzn sbi=yldzn_yzeyine sbi=yzeyine_inmek sbi=inmek_iin sbi=iin_ancak sbi=ancak_bir sbi=bir_mhendislik sbi=mhendislik_harikasna sbi=harikasna_ihtiyacnz sbi=ihtiyacnz_var sbi=var_tpk sbi=tpk_Philae sbi=Philae_gibi 
+s=yi s=gece s=herkese yisbi=yi_gece sbi=gece_herkese 
+s=Te s=u s=twitter s=denmek s=eye s=kaydolmak Tesbi=Te_u sbi=u_twitter sbi=twitter_denmek sbi=denmek_eye sbi=eye_kaydolmak 
+s=Kr s=bu s=da s=bitmek s=Ama s=Philae s=gibi s=pil s=de s=bitmek Krsbi=Kr_bu sbi=bu_da sbi=da_bitmek sbi=bitmek_Ama sbi=Ama_Philae sbi=Philae_gibi sbi=gibi_pil sbi=pil_de sbi=de_bitmek 
+s=serdargokalp s=nterstaller s=hakknda s=ne s=dnyorsun s=ben s=iin s=se s=gr s=ok s=nem s=o s=gre s=izlemek s=istemek sesbi=serdargokalp_nterstaller sbi=nterstaller_hakknda sbi=hakknda_ne sbi=ne_dnyorsun sbi=dnyorsun_ben sbi=ben_iin sbi=iin_se sbi=se_gr sbi=gr_ok sbi=ok_nem sbi=nem_o sbi=o_gre sbi=gre_izlemek sbi=izlemek_istemek 
+s=bayapt s=olmuCNolan s=dan s=efsane s=bir s=film s=daha s=anlatcak s=kelime s=yok s=izlemek s=sadece basbi=bayapt_olmuCNolan sbi=olmuCNolan_dan sbi=dan_efsane sbi=efsane_bir sbi=bir_film sbi=film_daha sbi=daha_anlatcak sbi=anlatcak_kelime sbi=kelime_yok sbi=yok_izlemek sbi=izlemek_sadece 
+s=Bir s=ocuun s=byme s=srecini s=anlatmak s=ekim s=tam s=12 s=yl s=sren s=trnn s=ilk s=ve s=tek s=film s=Muhakkak s=izlemek Bisbi=Bir_ocuun sbi=ocuun_byme sbi=byme_srecini sbi=srecini_anlatmak sbi=anlatmak_ekim sbi=ekim_tam sbi=tam_12 sbi=12_yl sbi=yl_sren sbi=sren_trnn sbi=trnn_ilk sbi=ilk_ve sbi=ve_tek sbi=tek_film sbi=film_Muhakkak sbi=Muhakkak_izlemek 
+s=Boyhood s=u s=ok s=ok s=ok s=sevmek s=ama s=itiraf s=etmek s=Whiplash s=daha s=gl s=bir s=film Bosbi=Boyhood_u sbi=u_ok sbi=ok_ok sbi=ok_ok sbi=ok_sevmek sbi=sevmek_ama sbi=ama_itiraf sbi=itiraf_etmek sbi=etmek_Whiplash sbi=Whiplash_daha sbi=daha_gl sbi=gl_bir sbi=bir_film 
+s=Boyhood s=gzel s=film s=Beenmeseniz s=bile s=ynetmenin s=o s=kadar s=yllk s=sabrna s=emeine s=yine s=izlemek Bosbi=Boyhood_gzel sbi=gzel_film sbi=film_Beenmeseniz sbi=Beenmeseniz_bile sbi=bile_ynetmenin sbi=ynetmenin_o sbi=o_kadar sbi=kadar_yllk sbi=yllk_sabrna sbi=sabrna_emeine sbi=emeine_yine sbi=yine_izlemek 
+s=Bu s=anmak s=itibar? s=dnya s=fenerbaheliler s=gn s=kutlu s=olmak Busbi=Bu_anmak sbi=anmak_itibar? sbi=itibar?_dnya sbi=dnya_fenerbaheliler sbi=fenerbaheliler_gn sbi=gn_kutlu sbi=kutlu_olmak 
+s=Bu s=ara s=twitter s=keif s=almasndaym Busbi=Bu_ara sbi=ara_twitter sbi=twitter_keif sbi=keif_almasndaym 
+s=Bu s=interstaller s=ok s=ge s=izlem s=biri s=olmak s=diyim s=bayldmmmmm Busbi=Bu_interstaller sbi=interstaller_ok sbi=ok_ge sbi=ge_izlem sbi=izlem_biri sbi=biri_olmak sbi=olmak_diyim sbi=diyim_bayldmmmmm 
+s=Bu s=twitter s=bar s=gzel s=bireymi s=yahu Busbi=Bu_twitter sbi=twitter_bar sbi=bar_gzel sbi=gzel_bireymi sbi=bireymi_yahu 
+s=Bugn s=Gnlerden s=Galatasaray s=yazsn s=gr s=kalp s=at s=hzlananlar s=favvvvvv Busbi=Bugn_Gnlerden sbi=Gnlerden_Galatasaray sbi=Galatasaray_yazsn sbi=yazsn_gr sbi=gr_kalp sbi=kalp_at sbi=at_hzlananlar sbi=hzlananlar_favvvvvv 
+s=Buna s=ada s=gerek s=se s=hep s=mutlusun s=yaaa Busbi=Buna_ada sbi=ada_gerek sbi=gerek_se sbi=se_hep sbi=hep_mutlusun sbi=mutlusun_yaaa 
+s=Chevrolet s=Captivay s=kullandka s=daha s=ok s=beeniyorum Chsbi=Chevrolet_Captivay sbi=Captivay_kullandka sbi=kullandka_daha sbi=daha_ok sbi=ok_beeniyorum 
+s=15 s=litre s=su s=iesine s=sarldm s=oturmak s=Hayattr s=yaw s=sarlmayalm s=da s=nabalm 15sbi=15_litre sbi=litre_su sbi=su_iesine sbi=iesine_sarldm sbi=sarldm_oturmak sbi=oturmak_Hayattr sbi=Hayattr_yaw sbi=yaw_sarlmayalm sbi=sarlmayalm_da sbi=da_nabalm 
+s=Curiosity s=de s=Philae s=de s=bili s=anlamak s=anlamak s=herkes s=takip s=edebilecei s=kahraman s=olmak s=sosyal s=medya s=ayr s=bir s=g s=vermek s=grev Cusbi=Curiosity_de sbi=de_Philae sbi=Philae_de sbi=de_bili sbi=bili_anlamak sbi=anlamak_anlamak sbi=anlamak_herkes sbi=herkes_takip sbi=takip_edebilecei sbi=edebilecei_kahraman sbi=kahraman_olmak sbi=olmak_sosyal sbi=sosyal_medya sbi=medya_ayr sbi=ayr_bir sbi=bir_g sbi=g_vermek sbi=vermek_grev 
+s=Diskoya s=bar s=gideceginize s=3 s=saat s=boyhood s=film s=ayirin Disbi=Diskoya_bar sbi=bar_gideceginize sbi=gideceginize_3 sbi=3_saat sbi=saat_boyhood sbi=boyhood_film sbi=film_ayirin 
+s=Doum s=gnn s=kutlu s=olsuun s=sarmak s=D Dosbi=Doum_gnn sbi=gnn_kutlu sbi=kutlu_olsuun sbi=olsuun_sarmak sbi=sarmak_D 
+s=Duygulandm s=o s=ya s=interstaller s=aklma s=geldi2030 s=iin s=mars s=bilet s=mi s=almak s=D Dusbi=Duygulandm_o sbi=o_ya sbi=ya_interstaller sbi=interstaller_aklma sbi=aklma_geldi2030 sbi=geldi2030_iin sbi=iin_mars sbi=mars_bilet sbi=bilet_mi sbi=mi_almak sbi=almak_D 
+s=Efes s=World s=Cup s=da s=Hido s=rzgar s=gibi Efsbi=Efes_World sbi=World_Cup sbi=Cup_da sbi=da_Hido sbi=Hido_rzgar sbi=rzgar_gibi 
+s=Efsane s=gelmek Efsbi=Efsane_gelmek 
+s=En s=iyi s=film s=bence s=ya s=boyhood s=ya s=da s=whiplash s=geri s=kalani s=iyi s=de s=bu s=daha s=iyi Ensbi=En_iyi sbi=iyi_film sbi=film_bence sbi=bence_ya sbi=ya_boyhood sbi=boyhood_ya sbi=ya_da sbi=da_whiplash sbi=whiplash_geri sbi=geri_kalani sbi=kalani_iyi sbi=iyi_de sbi=de_bu sbi=bu_daha sbi=daha_iyi 
+s=En s=son s=gittiimde s=yenilmiti s=Beikta s=O s=da s=7 s=yan s=7 s=yan Ensbi=En_son sbi=son_gittiimde sbi=gittiimde_yenilmiti sbi=yenilmiti_Beikta sbi=Beikta_O sbi=O_da sbi=da_7 sbi=7_yan sbi=yan_7 sbi=7_yan 
+s=Evim s=ev s=gzel s=ev Evsbi=Evim_ev sbi=ev_gzel sbi=gzel_ev 
+s=Gler s=yzl s=bir s=karlamak s=ve s=kolay s=i s=ak Glsbi=Gler_yzl sbi=yzl_bir sbi=bir_karlamak sbi=karlamak_ve sbi=ve_kolay sbi=kolay_i sbi=i_ak 
+s=20yy s=zaman s=yolculuu s=film s=backtothefuture s=d s=21yy s=n s=zamanyolculuu s=film s=de s=tartmasz s=interstaller s=Kurgumanyaklara s=duyurmak s=D 20sbi=20yy_zaman sbi=zaman_yolculuu sbi=yolculuu_film sbi=film_backtothefuture sbi=backtothefuture_d sbi=d_21yy sbi=21yy_n sbi=n_zamanyolculuu sbi=zamanyolculuu_film sbi=film_de sbi=de_tartmasz sbi=tartmasz_interstaller sbi=interstaller_Kurgumanyaklara sbi=Kurgumanyaklara_duyurmak sbi=duyurmak_D 
+s=Gnei s=Grdm s=Oscar s=Alr s=M s=Merak s=Ediyoooooooorrrrrrrr Gnsbi=Gnei_Grdm sbi=Grdm_Oscar sbi=Oscar_Alr sbi=Alr_M sbi=M_Merak sbi=Merak_Ediyoooooooorrrrrrrr 
+s=Gzel s=haber s=ESA s=uyku s=mod s=geen s=Philae s=keif s=aracnn s=67P s=kuyrukluyldz s=hakknda s=toplad s=tm s=veri s=gndermeyi s=baardn s=aklam Gzsbi=Gzel_haber sbi=haber_ESA sbi=ESA_uyku sbi=uyku_mod sbi=mod_geen sbi=geen_Philae sbi=Philae_keif sbi=keif_aracnn sbi=aracnn_67P sbi=67P_kuyrukluyldz sbi=kuyrukluyldz_hakknda sbi=hakknda_toplad sbi=toplad_tm sbi=tm_veri sbi=veri_gndermeyi sbi=gndermeyi_baardn sbi=baardn_aklam 
+s=Hala s=zmeye s=alyor s=jquery s=se s=sevmek Hasbi=Hala_zmeye sbi=zmeye_alyor sbi=alyor_jquery sbi=jquery_se sbi=se_sevmek 
+s=Haydi s=Philae s=se s=biz s=iin s=ok s=deerlisin Hasbi=Haydi_Philae sbi=Philae_se sbi=se_biz sbi=biz_iin sbi=iin_ok sbi=ok_deerlisin 
+s=Haydi s=herkes s=Herkes s=Pirelli s=Cluba Hasbi=Haydi_herkes sbi=herkes_Herkes sbi=Herkes_Pirelli sbi=Pirelli_Cluba 
+s=Heh s=heh s=Bariyerleri s=atm s=da s=girmek s=anne s=babann s=odasna Hesbi=Heh_heh sbi=heh_Bariyerleri sbi=Bariyerleri_atm sbi=atm_da sbi=da_girmek sbi=girmek_anne sbi=anne_babann sbi=babann_odasna 
+s=Hoca s=ve s=Ahmet s=Cemali s=gordum s=Melih s=ile s=se s=konustuk Hosbi=Hoca_ve sbi=ve_Ahmet sbi=Ahmet_Cemali sbi=Cemali_gordum sbi=gordum_Melih sbi=Melih_ile sbi=ile_se sbi=se_konustuk 
+s=Kate s=Winslet s=gece s=en s=ok s=tartlan s=isim s=galiba Kasbi=Kate_Winslet sbi=Winslet_gece sbi=gece_en sbi=en_ok sbi=ok_tartlan sbi=tartlan_isim sbi=isim_galiba 
+s=Kollu s=battaniye s=iyi s=fikir Kosbi=Kollu_battaniye sbi=battaniye_iyi sbi=iyi_fikir 
+s=MangaKandrma s=Kendini s=san s=gelmek s=D s=Manisa s=kavana s=yakn s=bi s=yer Masbi=MangaKandrma_Kendini sbi=Kendini_san sbi=san_gelmek sbi=gelmek_D sbi=D_Manisa sbi=Manisa_kavana sbi=kavana_yakn sbi=yakn_bi sbi=bi_yer 
+s=D s=O s=zaman s=zmir s=yol s=demek s=lazm D sbi=D_O sbi=O_zaman sbi=zaman_zmir sbi=zmir_yol sbi=yol_demek sbi=demek_lazm 
+s=McDonaldsa s=gitmek s=karmak s=vermek s=biz Mcsbi=McDonaldsa_gitmek sbi=gitmek_karmak sbi=karmak_vermek sbi=vermek_biz 
+s=Mercedes s=amblem s=du s=bal s=satmak s=bir s=dkkann s=nnde s=birden s=mutlu s=olabilir s=insan Mesbi=Mercedes_amblem sbi=amblem_du sbi=du_bal sbi=bal_satmak sbi=satmak_bir sbi=bir_dkkann sbi=dkkann_nnde sbi=nnde_birden sbi=birden_mutlu sbi=mutlu_olabilir sbi=olabilir_insan 
+s=Merhaba s=Olumluolumsuz s=yorum s=yapmak s=katk s=salayan s=herkese s=teekkrler s=E s=hadi s=bakalm Mesbi=Merhaba_Olumluolumsuz sbi=Olumluolumsuz_yorum sbi=yorum_yapmak sbi=yapmak_katk sbi=katk_salayan sbi=salayan_herkese sbi=herkese_teekkrler sbi=teekkrler_E sbi=E_hadi sbi=hadi_bakalm 
+s=Milka s=Bitter s=u s=an s=ooo s=i Misbi=Milka_Bitter sbi=Bitter_u sbi=u_an sbi=an_ooo sbi=ooo_i 
+s=Mutluluk s=sadece s=paylaldnda s=gerek Musbi=Mutluluk_sadece sbi=sadece_paylaldnda sbi=paylaldnda_gerek 
+s=Nasl s=yakaladm s=ama s=iki s=havaalan Nasbi=Nasl_yakaladm sbi=yakaladm_ama sbi=ama_iki sbi=iki_havaalan 
+s=Ne s=gzel s=olmu s=Pardus s=2009 Nesbi=Ne_gzel sbi=gzel_olmu sbi=olmu_Pardus sbi=Pardus_2009 
+s=Nihayet s=cesaret s=etmek s=Boyhoodu s=izlemek s=Muhteem s=bir s=sinema s=deney s=yaklak s=3 s=saat s=Sm s=gzel s=bir s=mr Nisbi=Nihayet_cesaret sbi=cesaret_etmek sbi=etmek_Boyhoodu sbi=Boyhoodu_izlemek sbi=izlemek_Muhteem sbi=Muhteem_bir sbi=bir_sinema sbi=sinema_deney sbi=deney_yaklak sbi=yaklak_3 sbi=3_saat sbi=saat_Sm sbi=Sm_gzel sbi=gzel_bir sbi=bir_mr 
+s=Niin s=Bishop s=un s=hastasyz Nisbi=Niin_Bishop sbi=Bishop_un sbi=un_hastasyz 
+s=O s=Be s=prenses s=per s=saniyooor O sbi=O_Be sbi=Be_prenses sbi=prenses_per sbi=per_saniyooor 
+s=grand s=budapest s=hotel s=ortal s=datsn s=kilo s=oscar s=alsn s=istemek s=boyhood s=da s=gzel grsbi=grand_budapest sbi=budapest_hotel sbi=hotel_ortal sbi=ortal_datsn sbi=datsn_kilo sbi=kilo_oscar sbi=oscar_alsn sbi=alsn_istemek sbi=istemek_boyhood sbi=boyhood_da sbi=da_gzel 
+s=Ogretmek s=tatli s=dil s=daha s=ogretici s=daha s=beslemek s=aslinda Ogsbi=Ogretmek_tatli sbi=tatli_dil sbi=dil_daha sbi=daha_ogretici sbi=ogretici_daha sbi=daha_beslemek sbi=beslemek_aslinda 
+s=Philae s=ekip s=efi s=niten s=sonra s=zplayp s=birka s=saat s=sonra s=tekrar s=oturmu s=olabilir s=Yani s=bugn s=bir s=deil s=iki s=in s=baarm s=olmak Phsbi=Philae_ekip sbi=ekip_efi sbi=efi_niten sbi=niten_sonra sbi=sonra_zplayp sbi=zplayp_birka sbi=birka_saat sbi=saat_sonra sbi=sonra_tekrar sbi=tekrar_oturmu sbi=oturmu_olabilir sbi=olabilir_Yani sbi=Yani_bugn sbi=bugn_bir sbi=bir_deil sbi=deil_iki sbi=iki_in sbi=in_baarm sbi=baarm_olmak 
+s=Philae s=iin s=grev s=baarl s=aklamas s=gelmek Phsbi=Philae_iin sbi=iin_grev sbi=grev_baarl sbi=baarl_aklamas sbi=aklamas_gelmek 
+s=Philae s=keif s=aracnn s=67P s=kuyrukluyldz s=hakknda s=toplad s=tm s=veri s=gndermeyi s=baard s=akland Phsbi=Philae_keif sbi=keif_aracnn sbi=aracnn_67P sbi=67P_kuyrukluyldz sbi=kuyrukluyldz_hakknda sbi=hakknda_toplad sbi=toplad_tm sbi=tm_veri sbi=veri_gndermeyi sbi=gndermeyi_baard sbi=baard_akland 
+s=Philaenin s=kuyruk s=yldza s=doru s=u s=an s=yapt s=yolculuun s=gzel s=bir s=animasyon Phsbi=Philaenin_kuyruk sbi=kuyruk_yldza sbi=yldza_doru sbi=doru_u sbi=u_an sbi=an_yapt sbi=yapt_yolculuun sbi=yolculuun_gzel sbi=gzel_bir sbi=bir_animasyon 
+s=Philaenin s=son s=son s=durum s=iin s=zldm s=ama s=sonuta s=ne s=olur s=olmak s=gerekletirilen s=ey s=muazzam s=bir s=olaydHereye s=ramen s=baarlyd Phsbi=Philaenin_son sbi=son_son sbi=son_durum sbi=durum_iin sbi=iin_zldm sbi=zldm_ama sbi=ama_sonuta sbi=sonuta_ne sbi=ne_olur sbi=olur_olmak sbi=olmak_gerekletirilen sbi=gerekletirilen_ey sbi=ey_muazzam sbi=muazzam_bir sbi=bir_olaydHereye sbi=olaydHereye_ramen sbi=ramen_baarlyd 
+s=Philaeyi s=dada s=Tat s=unutmak s=gibi s=gelmek s=hatrlatyim s=demek s=Boru s=diil s=510 s=MLYON s=KM Phsbi=Philaeyi_dada sbi=dada_Tat sbi=Tat_unutmak sbi=unutmak_gibi sbi=gibi_gelmek sbi=gelmek_hatrlatyim sbi=hatrlatyim_demek sbi=demek_Boru sbi=Boru_diil sbi=diil_510 sbi=510_MLYON sbi=MLYON_KM 
+s=Premierde s=Hot s=Tub s=Time s=machine s=balyor s=tam s=pazarlk s=film Prsbi=Premierde_Hot sbi=Hot_Tub sbi=Tub_Time sbi=Time_machine sbi=machine_balyor sbi=balyor_tam sbi=tam_pazarlk sbi=pazarlk_film 
+s=Sadece s=Rosetta s=ve s=Philaeye s=Mutluluklar Sasbi=Sadece_Rosetta sbi=Rosetta_ve sbi=ve_Philaeye sbi=Philaeye_Mutluluklar 
+s=Sen s=kimlere s=evrim s=iisin s=diye s=triplere s=gireceim s=bi s=sevdiceim s=olmad s=iin s=anslym Sesbi=Sen_kimlere sbi=kimlere_evrim sbi=evrim_iisin sbi=iisin_diye sbi=diye_triplere sbi=triplere_gireceim sbi=gireceim_bi sbi=bi_sevdiceim sbi=sevdiceim_olmad sbi=olmad_iin sbi=iin_anslym 
+s=interstaller s=mzikleri s=efsane s=olmu s=abi insbi=interstaller_mzikleri sbi=mzikleri_efsane sbi=efsane_olmu sbi=olmu_abi 
+s=Seni s=ok s=sevmek s=biliorsn s=dimi Sesbi=Seni_ok sbi=ok_sevmek sbi=sevmek_biliorsn sbi=biliorsn_dimi 
+s=Silacim s=Gecen s=gun s=Melih s=Hoca s=ve s=Ahmet s=Cemali s=gordum Sisbi=Silacim_Gecen sbi=Gecen_gun sbi=gun_Melih sbi=Melih_Hoca sbi=Hoca_ve sbi=ve_Ahmet sbi=Ahmet_Cemali sbi=Cemali_gordum 
+s=Siz s=de s=izlemek s=elenmek s=ok s=komik Sisbi=Siz_de sbi=de_izlemek sbi=izlemek_elenmek sbi=elenmek_ok sbi=ok_komik 
+s=Size s=nerim s=Taif s=olayn s=bir s=daha s=okumak Sisbi=Size_nerim sbi=nerim_Taif sbi=Taif_olayn sbi=olayn_bir sbi=bir_daha sbi=daha_okumak 
+s=SmallVille s=izlemek s=iyi s=olur Smsbi=SmallVille_izlemek sbi=izlemek_iyi sbi=iyi_olur 
+s=Sonunda s=interstaller s=izlemek s=zor s=h?l? s=vizyon s=mutlaka s=gitmek Sosbi=Sonunda_interstaller sbi=interstaller_izlemek sbi=izlemek_zor sbi=zor_h?l? sbi=h?l?_vizyon sbi=vizyon_mutlaka sbi=mutlaka_gitmek 
+s=Scack s=bir s=ramazan s=biz s=beklemek Scsbi=Scack_bir sbi=bir_ramazan sbi=ramazan_biz sbi=biz_beklemek 
+s=Tekrar s=sylyorum s=hayatmda s=izlediim s=en s=iyi s=film s=biri s=interstaller Tesbi=Tekrar_sylyorum sbi=sylyorum_hayatmda sbi=hayatmda_izlediim sbi=izlediim_en sbi=en_iyi sbi=iyi_film sbi=film_biri sbi=biri_interstaller 
+s=Tiz s=zaman s=bu s=film s=izlemek s=Birdman s=wiplash s=bothoodinterstaller Tisbi=Tiz_zaman sbi=zaman_bu sbi=bu_film sbi=film_izlemek sbi=izlemek_Birdman sbi=Birdman_wiplash sbi=wiplash_bothoodinterstaller 
+s=Twitter s=a s=Ho s=gelmek Twsbi=Twitter_a sbi=a_Ho sbi=Ho_gelmek 
+s=Abi s=mutlaka s=okumalsn s=interstaller s=film s=katmak s=katmak s=daha s=iyi s=hoca s=garanti s=vermek s=beeniceksin Absbi=Abi_mutlaka sbi=mutlaka_okumalsn sbi=okumalsn_interstaller sbi=interstaller_film sbi=film_katmak sbi=katmak_katmak sbi=katmak_daha sbi=daha_iyi sbi=iyi_hoca sbi=hoca_garanti sbi=garanti_vermek sbi=vermek_beeniceksin 
+s=Trk s=Spacede s=TV s=Keyfi Trsbi=Trk_Spacede sbi=Spacede_TV sbi=TV_Keyfi 
+s=Usain s=Boltun s=yeni s=dnya s=rekor s=958 s=nanlmaz Ussbi=Usain_Boltun sbi=Boltun_yeni sbi=yeni_dnya sbi=dnya_rekor sbi=rekor_958 sbi=958_nanlmaz 
+s=Ve s=bu s=video s=sonra s=kesinleti s=ki s=yln s=film s=kesinlikle s=nterstaller Vesbi=Ve_bu sbi=bu_video sbi=video_sonra sbi=sonra_kesinleti sbi=kesinleti_ki sbi=ki_yln sbi=yln_film sbi=film_kesinlikle sbi=kesinlikle_nterstaller 
+s=Yaknda s=evlenmek Yasbi=Yaknda_evlenmek 
+s=Yaz s=Karalamaya s=Geiyorum s=Bugnk s=3 s=yazm s=diyebilirim s=Gzel Yasbi=Yaz_Karalamaya sbi=Karalamaya_Geiyorum sbi=Geiyorum_Bugnk sbi=Bugnk_3 sbi=3_yazm sbi=yazm_diyebilirim sbi=diyebilirim_Gzel 
+s=Yaasn s=zgr s=FSM s=Kprs Yasbi=Yaasn_zgr sbi=zgr_FSM sbi=FSM_Kprs 
+s=Yooo s=Ag s=bu s=ara s=boyut s=kavram s=ok s=ekmek s=dikkat s=3 s=interstaller Yosbi=Yooo_Ag sbi=Ag_bu sbi=bu_ara sbi=ara_boyut sbi=boyut_kavram sbi=kavram_ok sbi=ok_ekmek sbi=ekmek_dikkat sbi=dikkat_3 sbi=3_interstaller 
+s=aday s=olsaydn s=keke s=pp s=Sende s=iyi s=ki s=dodun s=hayatmm adsbi=aday_olsaydn sbi=olsaydn_keke sbi=keke_pp sbi=pp_Sende sbi=Sende_iyi sbi=iyi_ki sbi=ki_dodun sbi=dodun_hayatmm 
+s=aka s=ki s=blm s=ok s=elenceli s=yani s=fragman s=belli aksbi=aka_ki sbi=ki_blm sbi=blm_ok sbi=ok_elenceli sbi=elenceli_yani sbi=yani_fragman sbi=fragman_belli 
+s=aldm s=doum s=gn s=hediye s=iin s=tm s=arkadalarma s=teekkrler alsbi=aldm_doum sbi=doum_gn sbi=gn_hediye sbi=hediye_iin sbi=iin_tm sbi=tm_arkadalarma sbi=arkadalarma_teekkrler 
+s=Adamsn s=be s=BOBO Adsbi=Adamsn_be sbi=be_BOBO 
+s=ama s=ok s=merak s=etmek s=deniyebilirsin s=zevk s=bi s=olay amsbi=ama_ok sbi=ok_merak sbi=merak_etmek sbi=etmek_deniyebilirsin sbi=deniyebilirsin_zevk sbi=zevk_bi sbi=bi_olay 
+s=artk s=Twitterdaym s=Bu s=da s=ilk s=yazm s=oldu arsbi=artk_Twitterdaym sbi=Twitterdaym_Bu sbi=Bu_da sbi=da_ilk sbi=ilk_yazm sbi=yazm_oldu 
+s=baboli s=Be s=onu s=soguk s=tercih s=etmek basbi=baboli_Be sbi=Be_onu sbi=onu_soguk sbi=soguk_tercih sbi=tercih_etmek 
+s=Ba s=Ho s=bir s=gl s=gerek Basbi=Ba_Ho sbi=Ho_bir sbi=bir_gl sbi=gl_gerek 
+s=baz s=istasyonlaryla s=ilgi s=yazmak s=iin s=saol basbi=baz_istasyonlaryla sbi=istasyonlaryla_ilgi sbi=ilgi_yazmak sbi=yazmak_iin sbi=iin_saol 
+s=Be s=bir s=kahramanm s=xD Besbi=Be_bir sbi=bir_kahramanm sbi=kahramanm_xD 
+s=Be s=tattl s=ryalar s=mentoll s=selpa s=bulmak s=kiiyi s=alnndan s=pcem s=gitmek Besbi=Be_tattl sbi=tattl_ryalar sbi=ryalar_mentoll sbi=mentoll_selpa sbi=selpa_bulmak sbi=bulmak_kiiyi sbi=kiiyi_alnndan sbi=alnndan_pcem sbi=pcem_gitmek 
+s=bili s=insan s=uyutmad s=gereini s=bilgi s=ulamak s=iin s=katetmek s=mesafe s=sonsuzluunu s=ifade s=etmek s=philae bisbi=bili_insan sbi=insan_uyutmad sbi=uyutmad_gereini sbi=gereini_bilgi sbi=bilgi_ulamak sbi=ulamak_iin sbi=iin_katetmek sbi=katetmek_mesafe sbi=mesafe_sonsuzluunu sbi=sonsuzluunu_ifade sbi=ifade_etmek sbi=etmek_philae 
+s=bir s=gl s=ne s=kadar s=sevmek s=ki s=glen s=yzne s=taptm s=tek s=insand s=kendi bisbi=bir_gl sbi=gl_ne sbi=ne_kadar sbi=kadar_sevmek sbi=sevmek_ki sbi=ki_glen sbi=glen_yzne sbi=yzne_taptm sbi=taptm_tek sbi=tek_insand sbi=insand_kendi 
+s=boyhood s=ok s=gzel s=film s=deil s=mi s=ya bosbi=boyhood_ok sbi=ok_gzel sbi=gzel_film sbi=film_deil sbi=deil_mi sbi=mi_ya 

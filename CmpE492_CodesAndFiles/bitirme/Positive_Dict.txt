@@ -1,0 +1,193 @@
+rate=i:0.0 rate=izlemek:-0.5 rate=sonra:0.5428571428571428 rate=sanrm:0.6 rate=daha:0.49333333333333335 rate=uzun:-0.5714285714285714 rate=sre:1.0 rate=kimse:0.0 rate=yok:0.7108433734939759 rate=uzayd:0.0 rate=yok:0.7108433734939759 rate=boyutlard:0.0 rate=ekmek:0.6326530612244898 rate=yeltenmek:0.0 rate=herh?lde:1.0 
+rate=Allahm:0.0 rate=hepimize:0.0 rate=salkl:0.3333333333333333 rate=huzur:-0.6363636363636364 rate=hayrl:0.5 rate=bol:0.6 rate=kazanl:0.0 rate=bir:0.3696969696969697 rate=yl:-0.625 rate=nasip:-1.0 rate=etmek:0.4329896907216495 rate=Bu:0.0 rate=souklarda:0.0 rate=nbet:0.0 rate=tutmak:0.0 rate=tm:-0.5 rate=Mehmetiklere:0.0 rate=de:0.3900709219858156 rate=sela:0.0 rate=olmak:0.4536082474226804 
+rate=bu:0.4358108108108108 rate=kez:0.4 rate=de:0.3900709219858156 rate=Interactive:0.0 rate=Media:0.0 rate=Awardsdan:0.0 rate=Outstanding:0.0 rate=Achievement:0.0 rate=Award:0.0 rate=ald:1.0 
+rate=bu:0.4358108108108108 rate=ok:-0.49586776859504134 rate=gzeldir:-1.0 
+rate=cnolann:0.0 rate=2006dan:0.0 rate=beri:0.75 rate=senaryo:1.0 rate=alt:0.0 rate=interstaller:0.0 rate=DallasBuyersClubtaki:0.0 rate=McConaugheyin:0.0 rate=kullandklaryla:0.0 rate=hzlandrd:0.0 rate=net:-0.6666666666666666 
+rate=cnbce:0.0 rate=iddetle:0.0 rate=tavsiye:0.6666666666666666 rate=etmek:0.4329896907216495 
+rate=en:-0.4536082474226804 rate=sonunda:-0.5 rate=yamur:0.0 rate=y?d:0.75 rate=bu:0.4358108108108108 rate=hava:-0.625 rate=baylyorum:0.0 rate=yaa:0.5 
+rate=eskiehire:0.0 rate=girmek:0.5 rate=zer:0.0 rate=hadi:0.0 rate=bakalm:0.0 
+rate=ev:0.46875 rate=tatil:0.0 rate=keyf?:-1.0 rate=flashanaliz:0.0 rate=proje:-0.6 rate=blog:0.0 rate=m:0.5128205128205128 rate=dnt:0.0 
+rate=evet:-0.5555555555555556 rate=haklsn:0.0 rate=bence:-0.5294117647058824 rate=de:0.3900709219858156 rate=eylemek:0.7777777777777778 rate=First:0.0 rate=mobil:0.0 rate=tweet:0.3333333333333333 
+rate=face:0.0 rate=de:0.3900709219858156 rate=bi:0.5094339622641509 rate=bi:0.5094339622641509 rate=ak:0.4375 rate=iiri:1.0 rate=paylatm:0.0 rate=ok:-0.49586776859504134 rate=gzeldi:-1.0 rate=yha:0.0 
+rate=flaamenkce:0.0 rate=renmissin:0.0 rate=demek:0.4470588235294118 rate=ya:0.5 rate=iki:0.5384615384615384 rate=gnde:0.8333333333333334 
+rate=Anasayfada:0.0 rate=se:0.37209302325581395 rate=gorunce:0.0 rate=ekrann:0.0 rate=parlakln:0.0 rate=arttryorum:0.0 rate=namssz:0.0 
+rate=gayet:-1.0 rate=gzel:-0.75 rate=kolay:0.8333333333333334 rate=ve:0.0 rate=anlalr:0.0 
+rate=gn:0.48717948717948717 rate=iinde:0.0 rate=zaman:0.46153846153846156 rate=geirmek:1.0 rate=iin:0.0 rate=alternatif:1.0 rate=saylabilir:0.0 
+rate=gzel:-0.75 rate=bir:0.3696969696969697 rate=gn:0.48717948717948717 rate=herey:-0.6666666666666666 rate=yol:0.4 rate=umarm:0.5714285714285714 rate=byle:0.52 rate=olur:0.5 rate=hep:0.45161290322580644 
+rate=gzeldi:-1.0 rate=memnun:0.5 rate=kaldm:0.0 rate=ok:-0.49586776859504134 
+rate=haha:0.0 rate=ok:-0.49586776859504134 rate=memnun:0.5 rate=olmak:0.4536082474226804 rate=o:0.4094488188976378 rate=zaman:0.46153846153846156 
+rate=hayrl:0.5 rate=uurlu:-1.0 rate=olmak:0.4536082474226804 
+rate=heh:0.0 rate=yleee:0.0 rate=tamam:1.0 rate=analiz:0.0 rate=etmek:0.4329896907216495 rate=de:0.3900709219858156 rate=bir:0.3696969696969697 rate=grelim:0.0 
+rate=hep:0.45161290322580644 rate=bu:0.4358108108108108 rate=ekilde:0.0 rate=yazlsa:0.0 rate=keke:0.0 rate=rahat:0.8 rate=okumak:0.0 rate=akp:0.0 rate=gitmek:0.0 
+rate=hepsinii:0.0 rate=?zmir:-0.6666666666666666 rate=gtresim:0.0 rate=gelmek:0.4032258064516129 rate=En:0.0 rate=azndan:0.6666666666666666 rate=burda:-0.6 rate=em:0.0 rate=aabiliyosunuz:0.0 
+rate=hi:0.5588235294117647 rate=sevmek:0.4444444444444444 rate=ama:0.0 rate=se:0.37209302325581395 rate=muhteem:-1.0 
+rate=Artk:0.0 rate=Ba:0.410958904109589 rate=de:0.3900709219858156 rate=gzelce:0.0 rate=sabretmek:-0.75 
+rate=hogeldin:0.0 rate=Philae:0.0 
+rate=ilk:-0.45 rate=kt:0.8 rate=gnden:0.0 rate=beri:0.75 rate=nolur:0.0 rate=gitmek:0.0 rate=diye:0.5614035087719298 rate=saykladm:0.0 rate=kadar:0.4 rate=varm:0.6 rate=gerek:0.45454545454545453 rate=nterstaller:0.0 rate=ok:-0.49586776859504134 rate=gzel:-0.75 rate=film:-0.6744186046511628 rate=tekrar:0.4 rate=tekrar:0.4 rate=gidilebilcek:0.0 rate=film:-0.6744186046511628 
+rate=interstaller:0.0 rate=bir:0.3696969696969697 rate=bayapt:0.0 
+rate=interstaller:0.0 rate=durmak:0.625 rate=bakmak:0.41379310344827586 rate=film:-0.6744186046511628 rate=gitmek:0.0 rate=mi:0.4745762711864407 rate=abi:0.4 rate=cagdasdogan:0.0 
+rate=interstaller:0.0 rate=hayatmn:0.0 rate=en:-0.4536082474226804 rate=iyi:-0.7590361445783133 rate=film:-0.6744186046511628 rate=voavvh:0.0 
+rate=interstaller:0.0 rate=izledike:0.0 rate=anlam:1.0 rate=kazanyor:0.0 
+rate=interstaller:0.0 rate=muhteemmmmmmmmmm:0.0 
+rate=interstaller:0.0 rate=tavsiye:0.6666666666666666 rate=etmek:0.4329896907216495 
+rate=interstaller:0.0 rate=yani:0.5454545454545454 rate=yldzlararas:0.0 rate=film:-0.6744186046511628 rate=ise:0.4166666666666667 rate=tam:0.45454545454545453 rate=bir:0.3696969696969697 rate=bilimkurgu:0.0 rate=sevmek:0.4444444444444444 rate=iin:0.0 rate=bayapt:0.0 rate=mdb:0.0 rate=ilk:-0.45 rate=10:0.6153846153846154 rate=u:0.47058823529411764 rate=zorlamtrda:0.0 rate=kendi:0.47619047619047616 
+rate=isko:0.0 rate=atasz:0.0 rate=harika:-1.0 rate=olmu:-0.7142857142857143 rate=ya:0.5 rate=ok:-0.49586776859504134 rate=beendim:0.0 rate=Be:0.5172413793103449 rate=tebrik:-0.8333333333333334 rate=etmek:0.4329896907216495 
+rate=Ayrica:0.0 rate=Carlos:0.0 rate=Suaradiye:0.0 rate=aramak:0.0 rate=sper:-0.625 rate=video:1.0 rate=var:-0.3958333333333333 
+rate=iyi:-0.7590361445783133 rate=bayram:-1.0 rate=Kideo:0.0 rate=Turkiye:0.0 rate=herkese:-0.6 rate=iyi:-0.7590361445783133 rate=bayram:-1.0 rate=dilmek:0.4 
+rate=iyikide:0.0 rate=okul:0.0 rate=olimpiyat:0.0 rate=almasna:0.0 rate=katlmamm:0.0 rate=iptal:0.75 rate=olmu:-0.7142857142857143 rate=D:0.0 
+rate=?zmir:-0.6666666666666666 rate=gtresim:0.0 rate=gelmek:0.4032258064516129 rate=En:0.0 rate=azndan:0.6666666666666666 rate=burda:-0.6 rate=em:0.0 rate=aabiliyosunuz:0.0 rate=yahu:0.5 
+rate=karikatrlerim:0.0 rate=ulamak:0.8 rate=m:0.5128205128205128 rate=acaba:0.42857142857142855 rate=penguen:0.0 rate=ok:-0.49586776859504134 rate=merak:1.0 rate=etmek:0.4329896907216495 
+rate=kaybettiim:0.0 rate=kulaklm:0.0 rate=bugn:-0.5 rate=bulmak:0.0 rate=sonunda:-0.5 
+rate=kocaman:1.0 rate=kitap:0.0 rate=sevmek:0.4444444444444444 
+rate=konu:0.36363636363636365 rate=olmad:0.4 rate=zaman:0.46153846153846156 rate=ne:0.4892086330935252 rate=gzel:-0.75 rate=bir:0.3696969696969697 rate=airmi:0.0 
+rate=maallah:-0.6666666666666666 rate=hepimiz:0.0 rate=lazz:0.0 rate=maallah:-0.6666666666666666 
+rate=meyval:0.0 rate=kek:0.0 rate=de:0.3900709219858156 rate=denemek:0.3333333333333333 
+rate=motorsiklet:0.0 rate=sevmek:0.4444444444444444 rate=yamuru:0.0 rate=da:0.34831460674157305 rate=sevmek:0.4444444444444444 
+rate=Bayram:0.0 rate=yemek:0.4351851851851852 rate=yemek:0.4351851851851852 rate=yemek:0.4351851851851852 rate=tatli:-1.0 rate=tatli:-1.0 rate=tatli:-1.0 
+rate=mutlu:-0.4728682170542636 rate=ok:-0.49586776859504134 rate=ilikilerde:0.0 rate=im:0.0 
+rate=nas:0.0 rate=geti:1.0 rate=sertapb:0.0 rate=konser:-0.75 rate=bakiiim:0.0 
+rate=nasl:0.6206896551724138 rate=yan:-0.5 rate=nas:0.0 rate=ya:0.5 rate=eklemek:0.0 rate=ama:0.0 rate=Be:0.5172413793103449 rate=Nazar:0.0 rate=messesinden:0.0 
+rate=ne:0.4892086330935252 rate=gzel:-0.75 rate=bir:0.3696969696969697 rate=gnd:0.0 
+rate=ne:0.4892086330935252 rate=hz:-1.0 rate=ama:0.0 rate=hel?l:0.0 rate=olmak:0.4536082474226804 
+rate=neyse:0.0 rate=Allah:0.43478260869565216 rate=tadn:0.5 rate=bozmasn:0.0 
+rate=neyseki:-1.0 rate=gelmek:0.4032258064516129 rate=hafta:-0.5 rate=o:0.4094488188976378 rate=Punc:0.0 rate=neyseki:-1.0 
+rate=of:1.0 rate=anacm:0.0 rate=bulgur:0.0 rate=pil?v:0.0 rate=yapm:-0.5 
+rate=off:0.0 rate=al:0.36363636363636365 rate=Be:0.5172413793103449 rate=de:0.3900709219858156 rate=o:0.4094488188976378 rate=kadar:0.4 rate=off:0.0 rate=balk:0.42857142857142855 rate=m:0.5128205128205128 
+rate=oh:-1.0 rate=oh:-1.0 rate=ne:0.4892086330935252 rate=guzel:0.4166666666666667 rate=garant:0.0 rate=olmak:0.4536082474226804 rate=tab:0.0 rate=?zmir:-0.6666666666666666 
+rate=Belki:0.0 rate=ehre:0.0 rate=bir:0.3696969696969697 rate=interstellar:0.0 rate=gelmek:0.4032258064516129 rate=philaenin:0.0 rate=67pye:0.0 rate=inme:0.0 rate=gibi:0.45 rate=olur:0.5 rate=bir:0.3696969696969697 rate=gzel:-0.75 rate=glmseriz:0.0 
+rate=okul:0.0 rate=koca:1.0 rate=bir:0.3696969696969697 rate=alk:0.5 
+rate=onlar:0.6666666666666666 rate=ayr:-0.6 rate=bi:0.5094339622641509 rate=havas:0.3333333333333333 rate=olmak:0.4536082474226804 rate=be:0.75 
+rate=oooooo:0.0 rate=hayrl:0.5 rate=olmak:0.4536082474226804 
+rate=perembe:-1.0 rate=Niantanda:0.0 rate=oynamak:0.0 rate=Oh:0.0 rate=oh:-1.0 rate=pek:1.0 rate=gzel:-0.75 
+rate=pirinleri:0.0 rate=opendns:0.0 rate=ile:0.0 rate=kurtarabilirsn:0.0 
+rate=romann:0.0 rate=erkek:0.0 rate=de:0.3900709219858156 rate=okumak:0.0 rate=diye:0.5614035087719298 rate=bir:0.3696969696969697 rate=de:0.3900709219858156 rate=gri:0.0 rate=renk:-1.0 rate=karmlar:0.0 
+rate=se:0.37209302325581395 rate=sevmek:0.4444444444444444 rate=burda:-0.6 rate=takip:0.0 rate=devam:0.0 
+rate=sevdiin:-0.6666666666666666 rate=biri:0.5 rate=se:0.37209302325581395 rate=unutmak:0.5714285714285714 rate=ne:0.4892086330935252 rate=demek:0.4470588235294118 rate=bilir:-1.0 rate=mis:0.0 
+rate=seeneklerin:0.0 rate=altnda:0.75 rate=ileri:0.0 rate=tarih:1.0 rate=ulatr:0.0 rate=blmnden:0.0 rate=2150:0.0 rate=ylna:0.0 rate=mail:1.0 rate=atmak:0.6923076923076923 
+rate=sohbet:-0.6666666666666666 rate=iki:0.5384615384615384 rate=oy:0.6666666666666666 rate=sohbet:-0.6666666666666666 rate=iki:0.5384615384615384 
+rate=Beeniyoruz:0.0 rate=evet:-0.5555555555555556 rate=evet:-0.5555555555555556 rate=Ne:0.0 rate=sevmeyeceiz:0.0 rate=cano:0.0 
+rate=sonunda:-0.5 rate=twitter:0.0 rate=atm:0.6666666666666666 
+rate=sorduum:0.0 rate=sorularn:0.0 rate=cevabn:0.0 rate=ok:-0.49586776859504134 rate=gzel:-0.75 rate=alyorum:0.5 rate=ilgi:0.0 rate=iin:0.0 rate=teekkr:-0.8333333333333334 rate=etmek:0.4329896907216495 rate=baarlarnzn:0.0 rate=devamn:0.0 rate=dilmek:0.4 
+rate=syleyecek:0.0 rate=sz:0.0 rate=bulamyorum:0.0 rate=mteri:-0.8 rate=memnuniyet:1.0 rate=yzde:0.3333333333333333 rate=yz:-1.0 rate=burada:0.0 
+rate=tadella:0.0 rate=ak:0.4375 rate=demek:0.4470588235294118 
+rate=tamam:1.0 rate=vodafone:0.4444444444444444 rate=guzel:0.4166666666666667 rate=alyor:0.5 
+rate=true:0.0 rate=detective:0.0 rate=y?d:0.75 rate=Sherlock:0.0 rate=ksalar:0.0 rate=zaten:0.5333333333333333 rate=izlemek:-0.5 rate=bence:-0.5294117647058824 rate=true:0.0 rate=detectivede:0.0 rate=interstaller:0.0 rate=baro:0.0 rate=oynamak:0.0 rate=hem:0.6666666666666666 
+rate=tutmak:0.0 rate=bu:0.4358108108108108 rate=Gzn:0.0 rate=sevmek:0.4444444444444444 rate=Firefox:0.0 
+rate=tm:-0.5 rate=arkadalarma:0.0 rate=hayrl:0.5 rate=tezkere:0.0 rate=dilmek:0.4 
+rate=ve:0.0 rate=dnyada:0.0 rate=en:-0.4536082474226804 rate=ok:-0.49586776859504134 rate=izlemek:-0.5 rate=ovmak:1.0 rate=program:0.5 rate=gerek:0.45454545454545453 rate=doru:0.6 
+rate=ve:0.0 rate=ook:0.0 rate=gzel:-0.75 rate=yemek:0.4351851851851852 rate=grntleri:0.0 rate=her:0.42592592592592593 rate=ey:0.46938775510204084 rate=tam:0.45454545454545453 rate=oldu:0.43333333333333335 
+rate=Bilim:0.0 rate=kurgu:0.0 rate=seviyasanz:0.0 rate=interstaller:0.0 rate=bu:0.4358108108108108 rate=zaman:0.46153846153846156 rate=kadar:0.4 rate=yaplms:0.0 rate=en:-0.4536082474226804 rate=iyi:-0.7590361445783133 rate=film:-0.6744186046511628 rate=kesinlikle:-0.7692307692307693 rate=izlemek:-0.5 
+rate=www:0.0 rate=showhow:0.0 rate=net:-0.6666666666666666 rate=Sitem:0.0 rate=ile:0.0 rate=ilgilenmek:0.0 
+rate=yan:-0.5 rate=yatm:0.0 rate=sekiz:0.0 rate=kadar:0.4 rate=sevmek:0.4444444444444444 
+rate=yazlik:0.0 rate=bi:0.5094339622641509 rate=mekandayim:0.0 rate=ucaga:0.0 rate=atlicam:0.0 rate=uzak:0.3333333333333333 rate=gidicem:0.0 rate=oh:-1.0 
+rate=yemek:0.4351851851851852 rate=her:0.42592592592592593 rate=daim:-1.0 rate=zlenebilir:0.0 rate=Bu:0.0 rate=ne:0.4892086330935252 rate=bereket:-1.0 rate=bir:0.3696969696969697 rate=gn:0.48717948717948717 rate=byle:0.52 
+rate=yeni:-0.5 rate=nesllerin:0.0 rate=retme:0.0 rate=imk?n:0.0 rate=tandm:-1.0 rate=tanttm:0.0 rate=yaasn:0.5 
+rate=ok:-0.49586776859504134 rate=sevmek:0.4444444444444444 rate=Be:0.5172413793103449 rate=bu:0.4358108108108108 rate=twitter:0.0 rate=yine:0.48 rate=gelicem:0.0 
+rate=ok:-0.49586776859504134 rate=teekkr:-0.8333333333333334 rate=etmek:0.4329896907216495 rate=meyval:0.0 rate=kek:0.0 rate=de:0.3900709219858156 rate=denemek:0.3333333333333333 
+rate=ok:-0.49586776859504134 rate=gzel:-0.75 rate=muhteem:-1.0 rate=bir:0.3696969696969697 rate=hizmet:-0.5 rate=teekkrler:-0.8333333333333334 
+rate=ok:-0.49586776859504134 rate=sevmek:0.4444444444444444 rate=harbi:1.0 rate=olaydr:0.0 rate=o:0.4094488188976378 rate=da:0.34831460674157305 rate=dehet:0.0 rate=sper:-0.625 rate=bir:0.3696969696969697 rate=film:-0.6744186046511628 
+rate=ok:-0.49586776859504134 rate=Kr:-0.42857142857142855 rate=bugn:-0.5 rate=Cu:-1.0 rate=ok:-0.49586776859504134 rate=zevk:0.0 rate=bir:0.3696969696969697 rate=mat:0.0 rate=85:0.0 rate=kazandk:0.0 
+rate=Bir:0.0 rate=Romantik:0.0 rate=Bilim:0.0 rate=Hikayesi:0.0 rate=Rosetta:0.0 rate=ve:0.0 rate=Philaeye:0.0 rate=Mutluluklar:0.0 
+rate=ncesinde:0.0 rate=interstaller:0.0 rate=stne:0.6 rate=de:0.3900709219858156 rate=Lucy:0.0 rate=izlemek:-0.5 rate=daha:0.49333333333333335 rate=bir:0.3696969696969697 rate=gzel:-0.75 rate=olmak:0.4536082474226804 rate=Gemi:0.0 rate=olmak:0.4536082474226804 rate=Welcome:0.0 rate=to:0.3333333333333333 rate=club:0.0 
+rate=zlemiim:-1.0 rate=bu:0.4358108108108108 rate=arky:0.5 rate=dinlemek:0.0 rate=ya:0.5 
+rate=nsanlarn:0.0 rate=kirletemedii:0.0 rate=tek:0.3888888888888889 rate=ey:0.46938775510204084 rate=vardr:0.42857142857142855 rate=o:0.4094488188976378 rate=da:0.34831460674157305 rate=iyi:-0.7590361445783133 rate=kalp:0.0 rate=vicdandr:0.0 
+rate=nsanlk:0.0 rate=iin:0.0 rate=dnm:1.0 rate=noktas:0.0 rate=Philae:0.0 rate=kuyruk:0.0 rate=yldza:1.0 rate=inmek:0.0 
+rate=nterstaller:0.0 rate=d?hil:0.0 rate=tm:-0.5 rate=film:-0.6744186046511628 rate=alayabilen:0.0 rate=arkadaa:0.0 rate=sahip:0.0 rate=ok:-0.49586776859504134 rate=Kr:-0.42857142857142855 rate=D:0.0 rate=sedakarael:0.0 
+rate=nterstaller:0.0 rate=kesin:0.8333333333333334 rate=izlemek:-0.5 rate=kesin:0.8333333333333334 rate=efsane:1.0 
+rate=nterstaller:0.0 rate=se:0.37209302325581395 rate=nasil:1.0 rate=bir:0.3696969696969697 rate=film:-0.6744186046511628 rate=oyle:-1.0 
+rate=nterstaller:0.0 rate=torrente:0.0 rate=dm:1.0 rate=el:0.45454545454545453 rate=titrediinden:0.0 rate=dowloada:0.0 rate=basamyorum:0.0 rate=haftalardr:0.0 rate=bu:0.4358108108108108 rate=beklemek:0.0 
+rate=nterstallerdan:0.0 rate=sonra:0.5428571428571428 rate=Be:0.5172413793103449 rate=1bilim:0.0 rate=adam:-1.0 rate=saygm:0.0 rate=sonsuz:0.0 rate=2uzay:0.0 rate=fizii:0.0 rate=konu:0.36363636363636365 rate=ok:-0.49586776859504134 rate=eksiim:0.0 
+rate=nterstalleri:0.0 rate=nihayet:-1.0 rate=izlemek:-0.5 rate=Gzel:0.0 rate=film:-0.6744186046511628 rate=yapm:-0.5 rate=ada:0.6923076923076923 rate=3:0.6 rate=ada:0.6923076923076923 rate=1:0.48484848484848486 rate=saat:0.425 rate=konumadk:0.0 rate=Kafay:0.0 rate=anca:0.5 rate=toparladk:0.0 
+rate=Bir:0.0 rate=kuyruk:0.0 rate=yldzn:0.0 rate=yzeyine:0.0 rate=inmek:0.0 rate=iin:0.0 rate=ancak:0.6666666666666666 rate=bir:0.3696969696969697 rate=mhendislik:0.0 rate=harikasna:0.0 rate=ihtiyacnz:0.0 rate=var:-0.3958333333333333 rate=tpk:-1.0 rate=Philae:0.0 rate=gibi:0.45 
+rate=yi:-1.0 rate=gece:0.45539033457249073 rate=herkese:-0.6 
+rate=Te:0.0 rate=u:0.47058823529411764 rate=twitter:0.0 rate=denmek:0.6666666666666666 rate=eye:0.0 rate=kaydolmak:0.0 
+rate=Kr:-0.42857142857142855 rate=bu:0.4358108108108108 rate=da:0.34831460674157305 rate=bitmek:0.44 rate=Ama:0.0 rate=Philae:0.0 rate=gibi:0.45 rate=pil:0.0 rate=de:0.3900709219858156 rate=bitmek:0.44 
+rate=serdargokalp:0.0 rate=nterstaller:0.0 rate=hakknda:0.5 rate=ne:0.4892086330935252 rate=dnyorsun:0.0 rate=ben:0.4 rate=iin:0.0 rate=se:0.37209302325581395 rate=gr:-0.5714285714285714 rate=ok:-0.49586776859504134 rate=nem:0.0 rate=o:0.4094488188976378 rate=gre:-0.5555555555555556 rate=izlemek:-0.5 rate=istemek:0.0 
+rate=bayapt:0.0 rate=olmuCNolan:0.0 rate=dan:0.6666666666666666 rate=efsane:1.0 rate=bir:0.3696969696969697 rate=film:-0.6744186046511628 rate=daha:0.49333333333333335 rate=anlatcak:0.0 rate=kelime:-0.6666666666666666 rate=yok:0.7108433734939759 rate=izlemek:-0.5 rate=sadece:-0.4583333333333333 
+rate=Bir:0.0 rate=ocuun:1.0 rate=byme:0.0 rate=srecini:0.0 rate=anlatmak:0.5 rate=ekim:0.0 rate=tam:0.45454545454545453 rate=12:0.0 rate=yl:-0.625 rate=sren:0.0 rate=trnn:0.0 rate=ilk:-0.45 rate=ve:0.0 rate=tek:0.3888888888888889 rate=film:-0.6744186046511628 rate=Muhakkak:0.0 rate=izlemek:-0.5 
+rate=Boyhood:0.0 rate=u:0.47058823529411764 rate=ok:-0.49586776859504134 rate=ok:-0.49586776859504134 rate=ok:-0.49586776859504134 rate=sevmek:0.4444444444444444 rate=ama:0.0 rate=itiraf:1.0 rate=etmek:0.4329896907216495 rate=Whiplash:0.0 rate=daha:0.49333333333333335 rate=gl:-0.5714285714285714 rate=bir:0.3696969696969697 rate=film:-0.6744186046511628 
+rate=Boyhood:0.0 rate=gzel:-0.75 rate=film:-0.6744186046511628 rate=Beenmeseniz:0.0 rate=bile:0.5555555555555556 rate=ynetmenin:1.0 rate=o:0.4094488188976378 rate=kadar:0.4 rate=yllk:0.6666666666666666 rate=sabrna:0.0 rate=emeine:0.0 rate=yine:0.48 rate=izlemek:-0.5 
+rate=Bu:0.0 rate=anmak:-0.4 rate=itibar?:0.0 rate=dnya:0.45454545454545453 rate=fenerbaheliler:0.0 rate=gn:0.48717948717948717 rate=kutlu:0.0 rate=olmak:0.4536082474226804 
+rate=Bu:0.0 rate=ara:0.4 rate=twitter:0.0 rate=keif:0.0 rate=almasndaym:0.0 
+rate=Bu:0.0 rate=interstaller:0.0 rate=ok:-0.49586776859504134 rate=ge:0.0 rate=izlem:0.0 rate=biri:0.5 rate=olmak:0.4536082474226804 rate=diyim:-1.0 rate=bayldmmmmm:0.0 
+rate=Bu:0.0 rate=twitter:0.0 rate=bar:0.0 rate=gzel:-0.75 rate=bireymi:0.0 rate=yahu:0.5 
+rate=Bugn:0.0 rate=Gnlerden:0.0 rate=Galatasaray:0.0 rate=yazsn:0.0 rate=gr:-0.5714285714285714 rate=kalp:0.0 rate=at:0.6666666666666666 rate=hzlananlar:0.0 rate=favvvvvv:0.0 
+rate=Buna:0.0 rate=ada:0.6923076923076923 rate=gerek:0.45454545454545453 rate=se:0.37209302325581395 rate=hep:0.45161290322580644 rate=mutlusun:0.0 rate=yaaa:0.75 
+rate=Chevrolet:0.0 rate=Captivay:0.0 rate=kullandka:0.0 rate=daha:0.49333333333333335 rate=ok:-0.49586776859504134 rate=beeniyorum:0.0 
+rate=15:0.3333333333333333 rate=litre:0.0 rate=su:0.0 rate=iesine:0.0 rate=sarldm:0.0 rate=oturmak:0.5714285714285714 rate=Hayattr:0.0 rate=yaw:0.0 rate=sarlmayalm:0.0 rate=da:0.34831460674157305 rate=nabalm:0.0 
+rate=Curiosity:0.0 rate=de:0.3900709219858156 rate=Philae:0.0 rate=de:0.3900709219858156 rate=bili:-1.0 rate=anlamak:0.42857142857142855 rate=anlamak:0.42857142857142855 rate=herkes:0.3888888888888889 rate=takip:0.0 rate=edebilecei:0.0 rate=kahraman:0.0 rate=olmak:0.4536082474226804 rate=sosyal:0.0 rate=medya:0.3333333333333333 rate=ayr:-0.6 rate=bir:0.3696969696969697 rate=g:0.0 rate=vermek:0.3783783783783784 rate=grev:1.0 
+rate=Diskoya:0.0 rate=bar:0.0 rate=gideceginize:0.0 rate=3:0.6 rate=saat:0.425 rate=boyhood:0.0 rate=film:-0.6744186046511628 rate=ayirin:0.0 
+rate=Doum:0.0 rate=gnn:-1.0 rate=kutlu:0.0 rate=olsuun:0.0 rate=sarmak:0.6666666666666666 rate=D:0.0 
+rate=Duygulandm:0.0 rate=o:0.4094488188976378 rate=ya:0.5 rate=interstaller:0.0 rate=aklma:0.5833333333333334 rate=geldi2030:0.0 rate=iin:0.0 rate=mars:0.0 rate=bilet:0.8 rate=mi:0.4745762711864407 rate=almak:0.0 rate=D:0.0 
+rate=Efes:0.0 rate=World:0.0 rate=Cup:0.0 rate=da:0.34831460674157305 rate=Hido:0.0 rate=rzgar:0.5 rate=gibi:0.45 
+rate=Efsane:0.0 rate=gelmek:0.4032258064516129 
+rate=En:0.0 rate=iyi:-0.7590361445783133 rate=film:-0.6744186046511628 rate=bence:-0.5294117647058824 rate=ya:0.5 rate=boyhood:0.0 rate=ya:0.5 rate=da:0.34831460674157305 rate=whiplash:0.0 rate=geri:0.5 rate=kalani:0.0 rate=iyi:-0.7590361445783133 rate=de:0.3900709219858156 rate=bu:0.4358108108108108 rate=daha:0.49333333333333335 rate=iyi:-0.7590361445783133 
+rate=En:0.0 rate=son:0.375 rate=gittiimde:0.0 rate=yenilmiti:0.0 rate=Beikta:0.0 rate=O:0.0 rate=da:0.34831460674157305 rate=7:0.5 rate=yan:-0.5 rate=7:0.5 rate=yan:-0.5 
+rate=Evim:0.0 rate=ev:0.46875 rate=gzel:-0.75 rate=ev:0.46875 
+rate=Gler:0.0 rate=yzl:0.0 rate=bir:0.3696969696969697 rate=karlamak:1.0 rate=ve:0.0 rate=kolay:0.8333333333333334 rate=i:0.0 rate=ak:0.4375 
+rate=20yy:0.0 rate=zaman:0.46153846153846156 rate=yolculuu:0.0 rate=film:-0.6744186046511628 rate=backtothefuture:0.0 rate=d:-0.6274509803921569 rate=21yy:0.0 rate=n:0.6666666666666666 rate=zamanyolculuu:0.0 rate=film:-0.6744186046511628 rate=de:0.3900709219858156 rate=tartmasz:0.0 rate=interstaller:0.0 rate=Kurgumanyaklara:0.0 rate=duyurmak:0.0 rate=D:0.0 
+rate=Gnei:0.0 rate=Grdm:0.0 rate=Oscar:0.0 rate=Alr:0.0 rate=M:0.0 rate=Merak:0.0 rate=Ediyoooooooorrrrrrrr:0.0 
+rate=Gzel:0.0 rate=haber:0.0 rate=ESA:0.0 rate=uyku:0.5757575757575758 rate=mod:0.0 rate=geen:-0.6666666666666666 rate=Philae:0.0 rate=keif:0.0 rate=aracnn:0.0 rate=67P:0.0 rate=kuyrukluyldz:0.0 rate=hakknda:0.5 rate=toplad:0.0 rate=tm:-0.5 rate=veri:0.0 rate=gndermeyi:0.0 rate=baardn:0.0 rate=aklam:0.0 
+rate=Hala:0.0 rate=zmeye:1.0 rate=alyor:0.5 rate=jquery:0.0 rate=se:0.37209302325581395 rate=sevmek:0.4444444444444444 
+rate=Haydi:0.0 rate=Philae:0.0 rate=se:0.37209302325581395 rate=biz:0.44642857142857145 rate=iin:0.0 rate=ok:-0.49586776859504134 rate=deerlisin:0.0 
+rate=Haydi:0.0 rate=herkes:0.3888888888888889 rate=Herkes:0.0 rate=Pirelli:0.0 rate=Cluba:0.0 
+rate=Heh:0.0 rate=heh:0.0 rate=Bariyerleri:0.0 rate=atm:0.6666666666666666 rate=da:0.34831460674157305 rate=girmek:0.5 rate=anne:-0.75 rate=babann:0.0 rate=odasna:0.0 
+rate=Hoca:0.0 rate=ve:0.0 rate=Ahmet:0.0 rate=Cemali:0.0 rate=gordum:0.0 rate=Melih:0.0 rate=ile:0.0 rate=se:0.37209302325581395 rate=konustuk:0.0 
+rate=Kate:0.0 rate=Winslet:0.0 rate=gece:0.45539033457249073 rate=en:-0.4536082474226804 rate=ok:-0.49586776859504134 rate=tartlan:0.0 rate=isim:0.5 rate=galiba:0.4 
+rate=Kollu:0.0 rate=battaniye:0.0 rate=iyi:-0.7590361445783133 rate=fikir:0.5 
+rate=MangaKandrma:0.0 rate=Kendini:0.0 rate=san:0.0 rate=gelmek:0.4032258064516129 rate=D:0.0 rate=Manisa:-1.0 rate=kavana:0.0 rate=yakn:-0.6666666666666666 rate=bi:0.5094339622641509 rate=yer:0.4444444444444444 
+rate=D:0.0 rate=O:0.0 rate=zaman:0.46153846153846156 rate=zmir:0.0 rate=yol:0.4 rate=demek:0.4470588235294118 rate=lazm:0.0 
+rate=McDonaldsa:0.0 rate=gitmek:0.0 rate=karmak:0.0 rate=vermek:0.3783783783783784 rate=biz:0.44642857142857145 
+rate=Mercedes:0.0 rate=amblem:0.0 rate=du:0.0 rate=bal:0.6666666666666666 rate=satmak:0.0 rate=bir:0.3696969696969697 rate=dkkann:0.0 rate=nnde:1.0 rate=birden:0.0 rate=mutlu:-0.4728682170542636 rate=olabilir:0.0 rate=insan:0.0 
+rate=Merhaba:0.0 rate=Olumluolumsuz:0.0 rate=yorum:-0.5714285714285714 rate=yapmak:0.40816326530612246 rate=katk:0.0 rate=salayan:0.0 rate=herkese:-0.6 rate=teekkrler:-0.8333333333333334 rate=E:0.0 rate=hadi:0.0 rate=bakalm:0.0 
+rate=Milka:0.0 rate=Bitter:0.0 rate=u:0.47058823529411764 rate=an:0.4 rate=ooo:0.0 rate=i:0.0 
+rate=Mutluluk:0.0 rate=sadece:-0.4583333333333333 rate=paylaldnda:0.0 rate=gerek:0.45454545454545453 
+rate=Nasl:0.0 rate=yakaladm:0.0 rate=ama:0.0 rate=iki:0.5384615384615384 rate=havaalan:0.0 
+rate=Ne:0.0 rate=gzel:-0.75 rate=olmu:-0.7142857142857143 rate=Pardus:0.0 rate=2009:0.0 
+rate=Nihayet:0.0 rate=cesaret:-1.0 rate=etmek:0.4329896907216495 rate=Boyhoodu:0.0 rate=izlemek:-0.5 rate=Muhteem:0.0 rate=bir:0.3696969696969697 rate=sinema:0.0 rate=deney:-1.0 rate=yaklak:0.0 rate=3:0.6 rate=saat:0.425 rate=Sm:1.0 rate=gzel:-0.75 rate=bir:0.3696969696969697 rate=mr:-0.5 
+rate=Niin:0.0 rate=Bishop:0.0 rate=un:0.0 rate=hastasyz:0.0 
+rate=O:0.0 rate=Be:0.5172413793103449 rate=prenses:-1.0 rate=per:1.0 rate=saniyooor:0.0 
+rate=grand:0.0 rate=budapest:0.0 rate=hotel:0.0 rate=ortal:0.0 rate=datsn:0.0 rate=kilo:0.42857142857142855 rate=oscar:-1.0 rate=alsn:0.0 rate=istemek:0.0 rate=boyhood:0.0 rate=da:0.34831460674157305 rate=gzel:-0.75 
+rate=Ogretmek:0.0 rate=tatli:-1.0 rate=dil:0.0 rate=daha:0.49333333333333335 rate=ogretici:0.0 rate=daha:0.49333333333333335 rate=beslemek:0.0 rate=aslinda:0.0 
+rate=Philae:0.0 rate=ekip:1.0 rate=efi:0.0 rate=niten:0.0 rate=sonra:0.5428571428571428 rate=zplayp:0.0 rate=birka:-1.0 rate=saat:0.425 rate=sonra:0.5428571428571428 rate=tekrar:0.4 rate=oturmu:0.0 rate=olabilir:0.0 rate=Yani:0.0 rate=bugn:-0.5 rate=bir:0.3696969696969697 rate=deil:0.0 rate=iki:0.5384615384615384 rate=in:-0.45 rate=baarm:0.0 rate=olmak:0.4536082474226804 
+rate=Philae:0.0 rate=iin:0.0 rate=grev:1.0 rate=baarl:-0.8 rate=aklamas:0.0 rate=gelmek:0.4032258064516129 
+rate=Philae:0.0 rate=keif:0.0 rate=aracnn:0.0 rate=67P:0.0 rate=kuyrukluyldz:0.0 rate=hakknda:0.5 rate=toplad:0.0 rate=tm:-0.5 rate=veri:0.0 rate=gndermeyi:0.0 rate=baard:0.0 rate=akland:0.0 
+rate=Philaenin:0.0 rate=kuyruk:0.0 rate=yldza:1.0 rate=doru:0.6 rate=u:0.47058823529411764 rate=an:0.4 rate=yapt:1.0 rate=yolculuun:0.0 rate=gzel:-0.75 rate=bir:0.3696969696969697 rate=animasyon:0.0 
+rate=Philaenin:0.0 rate=son:0.375 rate=son:0.375 rate=durum:0.8571428571428571 rate=iin:0.0 rate=zldm:1.0 rate=ama:0.0 rate=sonuta:1.0 rate=ne:0.4892086330935252 rate=olur:0.5 rate=olmak:0.4536082474226804 rate=gerekletirilen:0.0 rate=ey:0.46938775510204084 rate=muazzam:-0.6666666666666666 rate=bir:0.3696969696969697 rate=olaydHereye:0.0 rate=ramen:0.5 rate=baarlyd:0.0 
+rate=Philaeyi:0.0 rate=dada:0.0 rate=Tat:0.0 rate=unutmak:0.5714285714285714 rate=gibi:0.45 rate=gelmek:0.4032258064516129 rate=hatrlatyim:0.0 rate=demek:0.4470588235294118 rate=Boru:0.0 rate=diil:0.0 rate=510:0.0 rate=MLYON:0.0 rate=KM:0.0 
+rate=Premierde:0.0 rate=Hot:0.0 rate=Tub:0.0 rate=Time:0.0 rate=machine:0.0 rate=balyor:0.0 rate=tam:0.45454545454545453 rate=pazarlk:0.0 rate=film:-0.6744186046511628 
+rate=Sadece:0.0 rate=Rosetta:0.0 rate=ve:0.0 rate=Philaeye:0.0 rate=Mutluluklar:0.0 
+rate=Sen:0.0 rate=kimlere:0.0 rate=evrim:0.4 rate=iisin:0.0 rate=diye:0.5614035087719298 rate=triplere:1.0 rate=gireceim:0.0 rate=bi:0.5094339622641509 rate=sevdiceim:-1.0 rate=olmad:0.4 rate=iin:0.0 rate=anslym:0.0 
+rate=interstaller:0.0 rate=mzikleri:0.0 rate=efsane:1.0 rate=olmu:-0.7142857142857143 rate=abi:0.4 
+rate=Seni:0.0 rate=ok:-0.49586776859504134 rate=sevmek:0.4444444444444444 rate=biliorsn:0.0 rate=dimi:0.75 
+rate=Silacim:0.0 rate=Gecen:0.0 rate=gun:0.5 rate=Melih:0.0 rate=Hoca:0.0 rate=ve:0.0 rate=Ahmet:0.0 rate=Cemali:0.0 rate=gordum:0.0 
+rate=Siz:0.0 rate=de:0.3900709219858156 rate=izlemek:-0.5 rate=elenmek:0.0 rate=ok:-0.49586776859504134 rate=komik:-1.0 
+rate=Size:0.0 rate=nerim:0.0 rate=Taif:0.0 rate=olayn:-1.0 rate=bir:0.3696969696969697 rate=daha:0.49333333333333335 rate=okumak:0.0 
+rate=SmallVille:0.0 rate=izlemek:-0.5 rate=iyi:-0.7590361445783133 rate=olur:0.5 
+rate=Sonunda:0.0 rate=interstaller:0.0 rate=izlemek:-0.5 rate=zor:0.6666666666666666 rate=h?l?:0.7222222222222222 rate=vizyon:0.0 rate=mutlaka:0.0 rate=gitmek:0.0 
+rate=Scack:0.0 rate=bir:0.3696969696969697 rate=ramazan:0.0 rate=biz:0.44642857142857145 rate=beklemek:0.0 
+rate=Tekrar:0.0 rate=sylyorum:0.0 rate=hayatmda:0.5 rate=izlediim:0.0 rate=en:-0.4536082474226804 rate=iyi:-0.7590361445783133 rate=film:-0.6744186046511628 rate=biri:0.5 rate=interstaller:0.0 
+rate=Tiz:0.0 rate=zaman:0.46153846153846156 rate=bu:0.4358108108108108 rate=film:-0.6744186046511628 rate=izlemek:-0.5 rate=Birdman:0.0 rate=wiplash:0.0 rate=bothoodinterstaller:0.0 
+rate=Twitter:0.0 rate=a:0.6 rate=Ho:-0.7142857142857143 rate=gelmek:0.4032258064516129 
+rate=Abi:0.0 rate=mutlaka:0.0 rate=okumalsn:0.0 rate=interstaller:0.0 rate=film:-0.6744186046511628 rate=katmak:0.0 rate=katmak:0.0 rate=daha:0.49333333333333335 rate=iyi:-0.7590361445783133 rate=hoca:1.0 rate=garanti:1.0 rate=vermek:0.3783783783783784 rate=beeniceksin:0.0 
+rate=Trk:0.0 rate=Spacede:0.0 rate=TV:0.0 rate=Keyfi:0.0 
+rate=Usain:0.0 rate=Boltun:0.0 rate=yeni:-0.5 rate=dnya:0.45454545454545453 rate=rekor:0.0 rate=958:0.0 rate=nanlmaz:0.0 
+rate=Ve:0.0 rate=bu:0.4358108108108108 rate=video:1.0 rate=sonra:0.5428571428571428 rate=kesinleti:0.0 rate=ki:0.4603174603174603 rate=yln:0.0 rate=film:-0.6744186046511628 rate=kesinlikle:-0.7692307692307693 rate=nterstaller:0.0 
+rate=Yaknda:0.0 rate=evlenmek:0.0 
+rate=Yaz:0.0 rate=Karalamaya:0.0 rate=Geiyorum:0.0 rate=Bugnk:0.0 rate=3:0.6 rate=yazm:0.6666666666666666 rate=diyebilirim:-1.0 rate=Gzel:0.0 
+rate=Yaasn:0.0 rate=zgr:0.0 rate=FSM:0.0 rate=Kprs:0.0 
+rate=Yooo:0.0 rate=Ag:0.0 rate=bu:0.4358108108108108 rate=ara:0.4 rate=boyut:1.0 rate=kavram:0.0 rate=ok:-0.49586776859504134 rate=ekmek:0.6326530612244898 rate=dikkat:1.0 rate=3:0.6 rate=interstaller:0.0 
+rate=aday:-1.0 rate=olsaydn:0.0 rate=keke:0.0 rate=pp:0.0 rate=Sende:0.0 rate=iyi:-0.7590361445783133 rate=ki:0.4603174603174603 rate=dodun:-1.0 rate=hayatmm:0.0 
+rate=aka:0.4 rate=ki:0.4603174603174603 rate=blm:0.0 rate=ok:-0.49586776859504134 rate=elenceli:0.0 rate=yani:0.5454545454545454 rate=fragman:0.0 rate=belli:0.0 
+rate=aldm:0.5 rate=doum:0.0 rate=gn:0.48717948717948717 rate=hediye:0.0 rate=iin:0.0 rate=tm:-0.5 rate=arkadalarma:0.0 rate=teekkrler:-0.8333333333333334 
+rate=Adamsn:0.0 rate=be:0.75 rate=BOBO:0.0 
+rate=ama:0.0 rate=ok:-0.49586776859504134 rate=merak:1.0 rate=etmek:0.4329896907216495 rate=deniyebilirsin:0.0 rate=zevk:0.0 rate=bi:0.5094339622641509 rate=olay:0.0 
+rate=artk:0.7333333333333333 rate=Twitterdaym:0.0 rate=Bu:0.0 rate=da:0.34831460674157305 rate=ilk:-0.45 rate=yazm:0.6666666666666666 rate=oldu:0.43333333333333335 
+rate=baboli:0.0 rate=Be:0.5172413793103449 rate=onu:1.0 rate=soguk:0.0 rate=tercih:1.0 rate=etmek:0.4329896907216495 
+rate=Ba:0.410958904109589 rate=Ho:-0.7142857142857143 rate=bir:0.3696969696969697 rate=gl:-0.5714285714285714 rate=gerek:0.45454545454545453 
+rate=baz:-0.5555555555555556 rate=istasyonlaryla:0.0 rate=ilgi:0.0 rate=yazmak:0.6153846153846154 rate=iin:0.0 rate=saol:0.5 
+rate=Be:0.5172413793103449 rate=bir:0.3696969696969697 rate=kahramanm:0.0 rate=xD:0.0 
+rate=Be:0.5172413793103449 rate=tattl:0.0 rate=ryalar:0.0 rate=mentoll:0.0 rate=selpa:0.0 rate=bulmak:0.0 rate=kiiyi:-1.0 rate=alnndan:0.0 rate=pcem:0.0 rate=gitmek:0.0 
+rate=bili:-1.0 rate=insan:0.0 rate=uyutmad:0.0 rate=gereini:0.0 rate=bilgi:0.7142857142857143 rate=ulamak:0.8 rate=iin:0.0 rate=katetmek:0.0 rate=mesafe:0.0 rate=sonsuzluunu:0.0 rate=ifade:1.0 rate=etmek:0.4329896907216495 rate=philae:0.0 
+rate=bir:0.3696969696969697 rate=gl:-0.5714285714285714 rate=ne:0.4892086330935252 rate=kadar:0.4 rate=sevmek:0.4444444444444444 rate=ki:0.4603174603174603 rate=glen:1.0 rate=yzne:1.0 rate=taptm:0.0 rate=tek:0.3888888888888889 rate=insand:0.0 rate=kendi:0.47619047619047616 
+rate=boyhood:0.0 rate=ok:-0.49586776859504134 rate=gzel:-0.75 rate=film:-0.6744186046511628 rate=deil:0.0 rate=mi:0.4745762711864407 rate=ya:0.5 

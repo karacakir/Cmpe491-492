@@ -1,0 +1,283 @@
+30sbi=30_dk sbi=dk_sonra sbi=sonra_kurs sbi=kurs_basliyor sbi=basliyor_ya 
+evsbi=evet_bu sbi=bu_hazrm sbi=hazrm_ya sbi=ya_da sbi=da_hayr sbi=hayr_deilim 
+Sasbi=Sakal_ksn sbi=ksn_diye sbi=diye_yzmze sbi=yzmze_jilet sbi=jilet_vurucagmz sbi=vurucagmz_yatmak sbi=yatmak_dert sbi=dert_tasa sbi=tasa_kadeh sbi=kadeh_dip sbi=dip_vuruyoz sbi=vuruyoz_be sbi=be_kardeim 
+Sasbi=Sana_takld sbi=takld_aklm sbi=aklm_geceleri sbi=geceleri_hi sbi=hi_uyuyamadm 
+Sasbi=Sanrm_icimde sbi=icimde_bir sbi=bir_yer sbi=yer_saklanm sbi=saklanm_iddetli sbi=iddetli_bir sbi=bir_iddet sbi=iddet_eilimim sbi=eilimim_var 
+Sesbi=Sen_10 sbi=10_yl sbi=yl_boyunca sbi=boyunca_kuyruk sbi=kuyruk_yldza sbi=yldza_yolcu sbi=yolcu_etmek sbi=etmek_sonra sbi=sonra_gitmek sbi=gitmek_orada sbi=orada_uyumak 
+Sesbi=Sevenlerine_Sabr sbi=Sabr_Dilerim 
+Sosbi=Sol_kulagimdaki sbi=kulagimdaki_nlama sbi=nlama_ne sbi=ne_olabilir sbi=olabilir_delirmek sbi=delirmek_galiba sbi=galiba_ama sbi=ama_gercekten sbi=gercekten_nlyo 
+Sosbi=Son_yllarda sbi=yllarda_kalp sbi=kalp_cz sbi=cz_ettii sbi=ettii_tek sbi=tek_olay sbi=olay_olmak sbi=olmak_tarih sbi=tarih_gemitir sbi=gemitir_pff 
+Spsbi=Spordan_sonra sbi=sonra_et sbi=et_trafg sbi=trafg_berbat 
+Sysbi=Syle_lan sbi=lan_hangi sbi=hangi_sevmek sbi=sevmek_ekmek sbi=ekmek_gitmek 
+Snsbi=Snav_yznden sbi=yznden_braktm sbi=braktm_Be sbi=Be_aklma sbi=aklma_dt sbi=dt_yine 
+sasbi=sayglar_Bugnlerde sbi=Bugnlerde_zer sbi=zer_bir sbi=bir_krgnlk sbi=krgnlk_var sbi=var_neden sbi=neden_anlamadm 
+Tasbi=Tabiiki_Amerika sbi=Amerika_oscar sbi=oscar_da sbi=da_ne sbi=ne_kadar sbi=kadar_yanl sbi=yanl_olduunu sbi=olduunu_bir sbi=bir_kez sbi=kez_daha sbi=daha_kantlad sbi=kantlad_aday sbi=aday_film sbi=film_arasnda sbi=arasnda_interstaller sbi=interstaller_maalesef sbi=maalesef_yok 
+Tasbi=Tarihin_Arka sbi=Arka_Odasnda sbi=Odasnda_Murat sbi=Murat_Bardak sbi=Bardak_ilk sbi=ilk_defa sbi=defa_farkl sbi=farkl_bir sbi=bir_ceket sbi=ceket_giymi sbi=giymi_Mavi sbi=Mavi_renk sbi=renk_o sbi=o_her sbi=her_zamanki sbi=zamanki_taba sbi=taba_deil 
+Tasbi=Taylor_meneke sbi=meneke_gzler sbi=gzler_yok sbi=yok_artk sbi=artk_Liz sbi=Liz_Taylor sbi=Taylor_lm 
+Ulsbi=Ulan_amyemek sbi=amyemek_yiyorumpatates sbi=yiyorumpatates_kzartmas sbi=kzartmas_gibi sbi=gibi_tivitleri sbi=tivitleri_grmekten sbi=grmekten_acktm 
+Ulsbi=Ulen_bu sbi=bu_kuyrukluyldza sbi=kuyrukluyldza_da sbi=da_bizimki sbi=bizimki_mi sbi=mi_indirmek sbi=indirmek_Philae sbi=Philae_yi sbi=yi_yoksaGne sbi=yoksaGne_almak sbi=almak_yermek sbi=yermek_braktklarna sbi=braktklarna_gre 
+Umsbi=Umrumda_olmak sbi=olmak_bi sbi=bi_ey sbi=ey_var sbi=var_philae sbi=philae_arjin sbi=arjin_bitmek 
+Unsbi=Unutma_Gerekten sbi=Gerekten_sevmek sbi=sevmek_ah sbi=ah_tutmak 
+Vasbi=Valla_Ba sbi=Ba_mesaj sbi=mesaj_atmak sbi=atmak_Be sbi=Be_mesaj sbi=mesaj_atmak sbi=atmak_Gerekirse sbi=Gerekirse_sonsuz sbi=sonsuz_kadar sbi=kadar_konumayz 
+Vasbi=Vatandasi_mutlu sbi=mutlu_etmek sbi=etmek_degil sbi=degil_mi sbi=mi_gorevi sbi=gorevi_Beceremiyor 
+Whsbi=Whatsapp_kz sbi=kz_grup sbi=grup_dnen sbi=dnen_dedikodu sbi=dedikodu_normal sbi=normal_bi sbi=bi_insann sbi=insann_25 sbi=25_yllk sbi=yllk_zina sbi=zina_alkol sbi=alkol_ve sbi=ve_dier sbi=dier_gnahlarnla sbi=gnahlarnla_edeer 
+desbi=ders_almak sbi=almak_skldm sbi=skldm_artk sbi=artk_u sbi=u_okul sbi=okul_bitsede sbi=bitsede_kurtulmak 
+Yasbi=Ya_ama sbi=ama_zet sbi=zet_imdi sbi=imdi_kim sbi=kim_bilir sbi=bilir_kaa sbi=kaa_kadar sbi=kadar_srer 
+Yasbi=Ya_biz sbi=biz_ke sbi=ke_korsan sbi=korsan_CD sbi=CD_ci sbi=ci_Mahmut sbi=Mahmut_abi sbi=abi_nterstaller sbi=nterstaller_ve sbi=ve_hobbit sbi=hobbit_3 sbi=3_satyor sbi=satyor_nasl sbi=nasl_i sbi=i_bu sbi=bu_amk sbi=amk_toplanp sbi=toplanp_ke sbi=ke_mi sbi=mi_ekmek sbi=ekmek_acaba sbi=acaba_d 
+Yasbi=Ya_bugn sbi=bugn_hi sbi=hi_canm sbi=canm_gitar sbi=gitar_almak sbi=almak_istemek 
+Yasbi=Yanarm_yanarm sbi=yanarm_herey sbi=herey_biz sbi=biz_sonra sbi=sonra_oldu sbi=oldu_o sbi=o_yanarm 
+Yasbi=Yani_insan sbi=insan_rk sbi=rk_ve sbi=ve_dnya sbi=dnya_yok sbi=yok_olacak sbi=olacak_h?l? sbi=h?l?_kalmak sbi=kalmak_be sbi=be_kii sbi=kii_bi sbi=bi_yalan sbi=yalan_bi sbi=bi_elme sbi=elme_bi sbi=bi_entrika sbi=entrika_Geberin sbi=Geberin_ulan sbi=ulan_aaaaaa sbi=aaaaaa_interstaller sbi=interstaller_seyretmek 
+Yesbi=Yeni_dogan sbi=dogan_o sbi=o_ie sbi=ie_gitmek sbi=gitmek_mi sbi=mi_hic sbi=hic_yaa sbi=yaa_uff 
+Yisbi=Yine_bir sbi=bir_pazartesi sbi=pazartesi_sabah sbi=sabah_2 sbi=2_saat sbi=saat_yol sbi=yol_heba sbi=heba_oldu sbi=oldu_heba 
+Yisbi=Yine_yalnz sbi=yalnz_sabahlyorum sbi=sabahlyorum_kaderrrr sbi=kaderrrr_kaderrrrr sbi=kaderrrrr_se sbi=se_Ba sbi=Ba_eit sbi=eit_davranmadn sbi=davranmadn_ki 
+Yzsbi=Yzyln_kef sbi=kef_batarya sbi=batarya_takld sbi=takld_modlnn sbi=modlnn_arj sbi=arj_bittiGne sbi=bittiGne_grdnde sbi=grdnde_arj sbi=arj_olacak 
+absbi=abi_Philae sbi=Philae_koma sbi=koma_girmi sbi=girmi_se sbi=se_ne sbi=ne_diyosun 
+0 sbi=0_im sbi=im_aldim sbi=aldim_cok sbi=cok_mutluyum sbi=mutluyum_Matematik sbi=Matematik_test sbi=test_Be sbi=Be_bek 
+ahsbi=ahh_nerde sbi=nerde_o sbi=o_eski sbi=eski_bayram sbi=bayram_demek sbi=demek_gelmek sbi=gelmek_iimden sbi=iimden_ama sbi=ama_ok 
+aksbi=akademi_bu sbi=bu_film sbi=film_objektif sbi=objektif_gzle sbi=gzle_bakmas sbi=bakmas_imkansz sbi=imkansz_Yine sbi=Yine_de sbi=de_Birdman sbi=Birdman_en sbi=en_iyi sbi=iyi_grnt sbi=grnt_ynetmeni sbi=ynetmeni_Oscarn sbi=Oscarn_alp sbi=alp_en sbi=en_iyi sbi=iyi_film sbi=film_Boyhood sbi=Boyhood_gitmek 
+Alsbi=Allah_bi sbi=bi_sevgi sbi=sevgi_var sbi=var_o sbi=o_tarih? sbi=tarih?_gzmze sbi=gzmze_sokmak sbi=sokmak_gzmze sbi=gzmze_yazmak sbi=yazmak_her sbi=her_yermek sbi=yermek_hic sbi=hic_ayrlmycanz sbi=ayrlmycanz_zaten 
+alsbi=altn_stne sbi=stne_getirmek sbi=getirmek_mr sbi=mr_gedik sbi=gedik_ile sbi=ile_ferhat sbi=ferhat_geri sbi=geri_bulamadm 
+amsbi=ama_gercekten sbi=gercekten_nlyo sbi=nlyo_S sbi=S_lsekmi sbi=lsekmi_ne sbi=ne_yapmak 
+Ansbi=Ankara_karl sbi=karl_souk sbi=souk_doal sbi=doal_gaz sbi=gaz_sfrlad sbi=sfrlad_stelik sbi=stelik_kart sbi=kart_abi 
+arsbi=arka_u sbi=u_anmak sbi=anmak_bir sbi=bir_kuyruk sbi=kuyruk_yldzn sbi=yldzn_zer sbi=zer_keif sbi=keif_arac sbi=arac_var sbi=var_ve sbi=ve_keif sbi=keif_aracnn sbi=aracnn_arj sbi=arj_bitik 
+aysbi=ay_bildiin sbi=bildiin_oturmak sbi=oturmak_aladm sbi=aladm_yalnz sbi=yalnz_Philae sbi=Philae_iin sbi=iin_u sbi=u_anmak sbi=anmak_ald sbi=ald_arj sbi=arj_miktaryla sbi=miktaryla_tam sbi=tam_dolu sbi=dolu_ancak sbi=ancak_Austosta sbi=Austosta_ulaabilecekmi sbi=ulaabilecekmi_minnak 
+aysbi=ay_yllar sbi=yllar_geiyor sbi=geiyor_mrm sbi=mrm_solumak sbi=solumak_gzmn sbi=gzmn_nnde 
+aysbi=ayn_eyi sbi=eyi_imdi sbi=imdi_Be sbi=Be_twit sbi=twit_edicektim sbi=edicektim_ya 
+10sbi=10_tane sbi=tane_smarlarm sbi=smarlarm_He sbi=He_salyangoz sbi=salyangoz_Hayr sbi=Hayr_hasta sbi=hasta_olmak sbi=olmak_istemek 
+a sbi=a_gzn sbi=gzn_kula sbi=kula_enfeksiyon sbi=enfeksiyon_kapm sbi=kapm_bebeimin sbi=bebeimin_bi sbi=bi_de sbi=de_tm 
+aksbi=ak_Telefona sbi=Telefona_format sbi=format_atmak sbi=atmak_zor sbi=zor_kalmak sbi=kalmak_insan sbi=insan_ok sbi=ok_hznlendiriyo 
+basbi=bakanm_inallah sbi=inallah_Bizim sbi=Bizim_dolandrc sbi=dolandrc_ynetici sbi=ynetici_katmak sbi=katmak_Kaloriferler sbi=Kaloriferler_yanmyor 
+basbi=balyamyorum_ve sbi=ve_sadece sbi=sadece_2 sbi=2_gnm sbi=gnm_var sbi=var_Matematik sbi=Matematik_ok sbi=ok_iren sbi=iren_yaa 
+besbi=beklemek_geen sbi=geen_bir sbi=bir_hayat sbi=hayat_peh sbi=peh_Bende sbi=Bende_glmek sbi=glmek_istemek 
+Besbi=Be_de sbi=de_bu sbi=bu_le sbi=le_var sbi=var_demek sbi=demek_sandm 
+Besbi=Be_her sbi=her_gn sbi=gn_kpr sbi=kpr_trafiine sbi=trafiine_fena sbi=fena_taklp sbi=taklp_kalyorum 
+Besbi=Be_yazmak sbi=yazmak_getim sbi=getim_bahar sbi=bahar_razym sbi=razym_ayaklarm sbi=ayaklarm_yormak sbi=yormak_hep 
+besbi=bence_philae sbi=philae_derken sbi=derken_ses sbi=ses_kayt sbi=kayt_cihazn sbi=cihazn_bozmu 
+Besbi=Be_kendi sbi=kendi_ev sbi=ev_ben sbi=ben_haber sbi=haber_olmak sbi=olmak_kesiyolar sbi=kesiyolar_elektrii sbi=elektrii_anlamadm sbi=anlamadm_ki sbi=ki_Be 
+19sbi=1994_2 sbi=2_Mart sbi=Mart_gn sbi=gn_Trkiyenin sbi=Trkiyenin_ilk sbi=ilk_ve sbi=ve_en sbi=en_ok sbi=ok_film sbi=film_ekmek sbi=ekmek_kadn sbi=kadn_ynetmeni sbi=ynetmeni_sevgi sbi=sevgi_BLGE sbi=BLGE_OLGA54 sbi=OLGA54_yan sbi=yan_ev sbi=ev_kanmak sbi=kanmak_yangnda sbi=yangnda_yand sbi=yand_kaybetmek 
+besbi=ben_Be sbi=Be_sna sbi=sna_mesaj sbi=mesaj_atmak sbi=atmak_mym sbi=mym_ama sbi=ama_sms sbi=sms_yok 
+besbi=ben_kalmak sbi=kalmak_bende sbi=bende_aliyim sbi=aliyim_sevmek sbi=sevmek_iyi sbi=iyi_yanlarn sbi=yanlarn_gremedim sbi=gremedim_Be 
+bisbi=bi_teekkr sbi=teekkr_etmek sbi=etmek_sevmek sbi=sevmek_Ac sbi=Ac_ekmekmi sbi=ekmekmi_meer sbi=meer_bilmek sbi=bilmek_sevmek 
+bisbi=bilemek_belki sbi=belki_Be sbi=Be_biraz sbi=biraz_daha sbi=daha_fazla sbi=fazla_insancl sbi=insancl_olsaydm sbi=olsaydm_interstallera sbi=interstallera_bayapt sbi=bayapt_diyebilirdim 
+bisbi=bitmek_final sbi=final_dev sbi=dev_Biyolojim sbi=Biyolojim_bozulmak sbi=bozulmak_Uyuyo sbi=Uyuyo_olmak sbi=olmak_lazmd 
+bisbi=biz_elektrik sbi=elektrik_de sbi=de_gitmek sbi=gitmek_Hi sbi=Hi_i sbi=i_havasnda sbi=havasnda_deilim sbi=deilim_bugn 
+bisbi=bieyler_eksik sbi=eksik_skntl sbi=skntl_ve sbi=ve_bo sbi=bo_final sbi=final_bile sbi=bile_bitmek 
+bosbi=boyhoodu_izlemek sbi=izlemek_mi sbi=mi_12 sbi=12_sene sbi=sene_fi sbi=fi_mi sbi=mi_ekmek sbi=ekmek_demek sbi=demek_n sbi=n_yargl sbi=yargl_yaklayorum 
+bosbi=bolukta_deilim sbi=deilim_boluun sbi=boluun_kendi 
+busbi=bu_devir sbi=devir_kaak sbi=kaak_?nternet sbi=?nternet_peinde sbi=peinde_utanyorum sbi=utanyorum_bu sbi=bu_durum 
+2 sbi=2_kadn sbi=kadn_bir sbi=bir_driver sbi=driver_tantamadk sbi=tantamadk_da sbi=da_netbooka sbi=netbooka_o sbi=o_bakmdan 
+busbi=bu_kadar sbi=kadar_da sbi=da_uzatlmazki sbi=uzatlmazki_Ho sbi=Ho_ma sbi=ma_son sbi=son_dakika sbi=dakika_goln sbi=goln_yemek 
+busbi=bu_konu sbi=konu_gereinden sbi=gereinden_fazla sbi=fazla_hi sbi=hi_olmadm sbi=olmadm_kadar sbi=kadar_ciddiyim sbi=ciddiyim_ada sbi=ada_gibi sbi=gibi_ada sbi=ada_kardeim sbi=kardeim_diyeceim sbi=diyeceim_insan sbi=insan_yok sbi=yok_evre 
+busbi=bul_deil sbi=deil_toplant sbi=toplant_diyolardr sbi=diyolardr_belki sbi=belki_hatta sbi=hatta_hi sbi=hi_halim sbi=halim_yok sbi=yok_yaa 
+busbi=burkmak_aya sbi=aya_dn sbi=dn_3 sbi=3_kez sbi=kez_burkmak sbi=burkmak_ve sbi=ve_h?l? sbi=h?l?_acs sbi=acs_varr 
+bysbi=byle_ar sbi=ar_bir sbi=bir_hava sbi=hava_ar sbi=ar_ders sbi=ders_sonras sbi=sonras_bitmi sbi=bitmi_hal 
+casbi=canavar_karlad sbi=karlad_Be sbi=Be_bu sbi=bu_sabah sbi=sabah_okul sbi=okul_dokunmak sbi=dokunmak_alarm 
+casbi=canm_gorukle sbi=gorukle_k?bus sbi=k?bus_resmen sbi=resmen_on sbi=on_ker sbi=ker_arka sbi=arka_bakp sbi=bakp_yuruyorum 
+cesbi=cenabet_bende sbi=bende_acaba 
+dasbi=daha_az sbi=az_karanlkt sbi=karanlkt_byle sbi=byle_gndz sbi=gndz_m sbi=m_olur sbi=olur_olmak 
+dasbi=daha_yok sbi=yok_olmadk sbi=olmadk_zaman sbi=zaman_tutmak sbi=tutmak_mu sbi=mu_kafa sbi=kafa_kesmek sbi=kesmek_atasm sbi=atasm_gelmek 
+3 sbi=3_ay sbi=ay_geri sbi=geri_gelmek sbi=gelmek_hay sbi=hay_tkreyim sbi=tkreyim_byle sbi=byle_ie sbi=ie_teekkr 
+dasbi=daln_Banz sbi=Banz_saolsun sbi=saolsun_banz sbi=banz_saolsun sbi=saolsun_Allah sbi=Allah_rahmet sbi=rahmet_eylemek 
+desbi=de_sevinmitir sbi=sevinmitir_gibi sbi=gibi_gelmek sbi=gelmek_ge sbi=ge_olmak sbi=olmak_ge sbi=ge_olmak 
+dosbi=doumgnlerinin_telefon sbi=telefon_kutlanmayp sbi=kutlanmayp_facebook sbi=facebook_gibi sbi=gibi_sanal sbi=sanal_alem sbi=alem_kutlanmas sbi=kutlanmas_hi sbi=hi_Ho 
+ensbi=en_gzel sbi=gzel_arksn sbi=arksn_sylemek sbi=sylemek_kadar sbi=kadar_anlamszdr sbi=anlamszdr_artk sbi=artk_beklemek sbi=beklemek_stemyooorrrruuuummm 
+ersbi=erken_gelmek sbi=gelmek_hahahah sbi=hahahah_bir sbi=bir_trl sbi=trl_okuyamadm sbi=okuyamadm_u sbi=u_lanet sbi=lanet_slayt 
+ezsbi=ezel?_22 sbi=22_yemek sbi=yemek_almislar sbi=almislar_cok sbi=cok_gec sbi=gec_saat sbi=saat_uyku sbi=uyku_gelmek 
+fisbi=film_ekmek sbi=ekmek_bir sbi=bir_daha sbi=daha_evet sbi=evet_ya sbi=ya_se sbi=se_iin sbi=iin_zgnmm 
+gisbi=gitmek_be sbi=be_ada 
+gusbi=gun_bitmek sbi=bitmek_bilmek sbi=bilmek_Cok sbi=Cok_yorgun sbi=yorgun_gunduz sbi=gunduz_insan? sbi=insan?_olmak sbi=olmak_icin 
+gnsbi=gnlerinden_biri sbi=biri_bugn sbi=bugn_iin sbi=iin_farkl sbi=farkl_planlarm sbi=planlarm_vard sbi=vard_hepsi sbi=hepsi_su sbi=su_dt 
+36sbi=365_GN sbi=GN_6 sbi=6_SAATTE sbi=SAATTE_GELMEYEN sbi=GELMEYEN_MESAJ sbi=MESAJ_0000 sbi=0000_DA sbi=DA_MI sbi=MI_GELECEK sbi=GELECEK_SAMALAMAYIN 
+hesbi=hem_Ba sbi=Ba_yazk sbi=yazk_Be sbi=Be_gelicem sbi=gelicem_Be sbi=Be_o sbi=o_gremicem 
+hesbi=herhangi_bir sbi=bir_iddialarnn sbi=iddialarnn_inanlacak sbi=inanlacak_taraf sbi=taraf_yok sbi=yok_bence sbi=bence_inann sbi=inann_deil 
+hesbi=hereye_ramen sbi=ramen_bu sbi=bu_interstallerin sbi=interstallerin_overrated sbi=overrated_olduu sbi=olduu_gereini sbi=gereini_deitirmiyor sbi=deitirmiyor_tabi 
+hisbi=hibir_eyi sbi=eyi_yetitiremiyecegim sbi=yetitiremiyecegim_belli sbi=belli_oldu sbi=oldu_bitmek sbi=bitmek_artk sbi=artk_bugn sbi=bugn_Hidayet 
+hosbi=hobbit_ve sbi=ve_interstaller sbi=interstaller_o sbi=o_kadar sbi=kadar_ilgi sbi=ilgi_ekmek sbi=ekmek_ki sbi=ki_anlatmak 
+ilsbi=ilgilenmek_ne sbi=ne_oldu sbi=oldu_diye sbi=diye_h?l? sbi=h?l?_ses sbi=ses_yok sbi=yok_ak sbi=ak_oyalyo sbi=oyalyo_bellii 
+insbi=insan_anlamyorlar sbi=anlamyorlar_dediklerimizi 
+insbi=interstallar_ve sbi=ve_budapete sbi=budapete_otel sbi=otel_zaten sbi=zaten_akademi sbi=akademi_alkanl sbi=alkanl_olmak sbi=olmak_pek sbi=pek_ans sbi=ans_yok sbi=yok_da sbi=da_boyhoodtan sbi=boyhoodtan_ne sbi=ne_istemek sbi=istemek_be 
+iysbi=iyi_gelmek sbi=gelmek_baklk sbi=baklk_sistem sbi=sistem_harap sbi=harap_yine sbi=yine_grip sbi=grip_olmak 
+i sbi=i_hi sbi=hi_ekilmiyooooo 
+6 sbi=6_da sbi=da_uyanmalym sbi=uyanmalym_Yazk sbi=Yazk_deil sbi=deil_mi sbi=mi_bu sbi=bu_insan 
+itsbi=it_Sabahn sbi=Sabahn_Kr sbi=Kr_karga sbi=karga_bok sbi=bok_yemek sbi=yemek_dar sbi=dar_ne sbi=ne_iim sbi=iim_var 
+kasbi=kalmak_1 sbi=1_kalmak sbi=kalmak_salmak sbi=salmak_biz sbi=biz_usta sbi=usta_kalp sbi=kalp_agriyo sbi=agriyo_yine sbi=yine_ya 
+kasbi=kapanmtr_dnya sbi=dnya_tiyatro sbi=tiyatro_sahne sbi=sahne_Nejat sbi=Nejat_Uygur sbi=Uygur_un sbi=un_son sbi=son_perde sbi=perde_kapanmtr 
+kasbi=karr_s sbi=s_Tam sbi=Tam_kele sbi=kele_dndm sbi=dndm_ya 
+kesbi=kedi_ld sbi=ld_kedi sbi=kedi_ld sbi=ld_kedi sbi=kedi_ld sbi=ld_belki sbi=belki_kabullenmek sbi=kabullenmek_kolaylasir 
+kesbi=kendimi_kontrol sbi=kontrol_edememek sbi=edememek_btn sbi=btn_cin sbi=cin_tepe sbi=tepe_Kendimi sbi=Kendimi_kt sbi=kt_hissetmek 
+kesbi=keke_ii sbi=ii_olmak sbi=olmak_Keke sbi=Keke_burda sbi=burda_kalmak sbi=kalmak_uan sbi=uan_uyku 
+kosbi=koskoca_Twitterda sbi=Twitterda_kimse sbi=kimse_Ba sbi=Ba_Taksimde sbi=Taksimde_kalnacak sbi=kalnacak_bir sbi=bir_otel sbi=otel_tavsiye sbi=tavsiye_etmek 
+kusbi=kuru_muru sbi=muru_keke sbi=keke_Be sbi=Be_ev sbi=ev_aile sbi=aile_ile sbi=ile_TV sbi=TV_seyretmek sbi=seyretmek_olmak 
+kusbi=kuyruk_yldz sbi=yldz_yan sbi=yan_gelmek sbi=gelmek_yatmak sbi=yatmak_yer sbi=yer_deildir sbi=deildir_uymak sbi=uymak_philae sbi=philae_uymak 
+yesbi=yeter_biri sbi=biri_i sbi=i_bulmak sbi=bulmak_iin sbi=iin_el sbi=el_uzatsn sbi=uzatsn_artk 
+8osbi=8op_ah sbi=ah_be sbi=be_sekmek sbi=sekmek_dikkat sbi=dikkat_etmek sbi=etmek_kendinee sbi=kendinee_cok sbi=cok_gecmis sbi=gecmis_olmak 
+Kusbi=Ku_dil sbi=dil_eheheuhe sbi=eheheuhe_Be sbi=Be_iki sbi=iki_de sbi=de_uzun sbi=uzun_zamandr sbi=zamandr_gremedim 
+ktsbi=kt_bir sbi=bir_gn sbi=gn_geirdim sbi=geirdim_hem sbi=hem_de sbi=de_gnn sbi=gnn_sonunda sbi=sonunda_takip sbi=takip_etmek 
+ktsbi=kts_olamazd sbi=olamazd_Ama sbi=Ama_yemeimiz sbi=yemeimiz_kalmak sbi=kalmak_Hepsini sbi=Hepsini_yemek 
+kzsbi=kz_diye sbi=diye_yazk sbi=yazk_deil sbi=deil_mi sbi=mi_bacak sbi=bacak_kadar sbi=kadar_cocuga sbi=cocuga_yaplr sbi=yaplr_m 
+lasbi=lazm_off sbi=off_of sbi=of_neden sbi=neden_bu sbi=bu_kadar sbi=kadar_yalnz sbi=yalnz_kaldm sbi=kaldm_hissetmek sbi=hissetmek_ki 
+masbi=mahkum_tp sbi=tp_tp sbi=tp_gitmek sbi=gitmek_Tpk sbi=Tpk_bugn sbi=bugn_olduu sbi=olduu_gibi 
+nesbi=ne_talih sbi=talih_bam sbi=bam_var sbi=var_ne sbi=ne_zaman sbi=zaman_bitcek sbi=bitcek_bu sbi=bu_ceza 
+nesbi=neden_neden sbi=neden_istemediin sbi=istemediin_hal sbi=hal_silmek sbi=silmek_neden 
+nesbi=neden_baktm sbi=baktm_heryer sbi=heryer_ayn sbi=ayn_yz sbi=yz_gryorumm sbi=gryorumm_bu sbi=bu_canm sbi=canm_acto 
+nisbi=nitelendirmek_says sbi=says_ne sbi=ne_yazk sbi=yazk_ki sbi=ki_ok sbi=ok_deil sbi=deil_zgnm 
+hasbi=hain_kpek 
+nisbi=niye_niye sbi=niye_niye sbi=niye_bi sbi=bi_takmak sbi=takmak_Be sbi=Be_niye sbi=niye_o sbi=o_dusunsun sbi=dusunsun_kendi 
+o sbi=o_Ac sbi=Ac_derin sbi=derin_hissettiin sbi=hissettiin_zlem sbi=zlem_olabilir sbi=olabilir_mi 
+ofsbi=of_bu sbi=bu_telefon sbi=telefon_of sbi=of_ok sbi=ok_Am sbi=Am_ama sbi=ama_biey sbi=biey_yemek 
+ofsbi=of_of sbi=of_benmk sbi=benmk_Holl?nda sbi=Holl?nda_da sbi=da_cn sbi=cn_sefern sbi=sefern_yapyor sbi=yapyor_haber sbi=haber_alamyorum 
+olsbi=olmak_ihtimal? sbi=ihtimal?_de sbi=de_var sbi=var_yiletim sbi=yiletim_ama sbi=ama_turp sbi=turp_gibi sbi=gibi_deilim 
+olsbi=olmaz_de sbi=de_hi sbi=hi_nolur sbi=nolur_nolmaz sbi=nolmaz_olmazz sbi=olmazz_olmazz sbi=olmazz_Be sbi=Be_olmaz 
+olsbi=olmak_Kaybolmak sbi=Kaybolmak_derken sbi=derken_kendimi sbi=kendimi_kaybetmek sbi=kaybetmek_kayp sbi=kayp_karga 
+olsbi=olmak_ornek sbi=ornek_olmak sbi=olmak_gerekmek sbi=gerekmek_ste sbi=ste_yle sbi=yle_bisey sbi=bisey_Alamak sbi=Alamak_istemek 
+onsbi=on_ker sbi=ker_arka sbi=arka_bakp sbi=bakp_yuruyorum 
+oosbi=ooff_hasta sbi=hasta_olmak sbi=olmak_nefret sbi=nefret_etmek sbi=etmek_yaa 
+nesbi=nerde_o sbi=o_araba sbi=araba_ya sbi=ya_Ba sbi=Ba_al sbi=al_bitane sbi=bitane_beniz sbi=beniz_maduruyum 
+oysbi=oy_oy sbi=oy_Gne sbi=Gne_kzarm sbi=kzarm_ve sbi=ve_im sbi=im_bir sbi=bir_gzle sbi=gzle_uyandm 
+pasbi=paras_iin sbi=iin_deildi sbi=deildi_dime sbi=dime_Bugn sbi=Bugn_k sbi=k_ders sbi=ders_kendimden sbi=kendimden_utandm 
+Pasbi=Pazar_ertesi sbi=ertesi_se sbi=se_bir sbi=bir_trl sbi=trl_sevemiorum 
+pesbi=pek_online sbi=online_olamadm sbi=olamadm_iin sbi=iin_bu sbi=bu_ara sbi=ara_Derinin sbi=Derinin_doum sbi=doum_gnn sbi=gnn_kardm 
+pesbi=peki_herkes sbi=herkes_du sbi=du_ald sbi=ald_da sbi=da_benm sbi=benm_gnahm sbi=gnahm_ne 
+phsbi=philae_organik sbi=organik_molekl sbi=molekl_bulmu sbi=bulmu_hepimiz sbi=hepimiz_lcez 
+rzsbi=rzgar_yle sbi=yle_bi sbi=bi_esmek sbi=esmek_ki sbi=ki_yzme sbi=yzme_yzme sbi=yzme_yzm sbi=yzm_acd sbi=acd_resmen 
+sasbi=sakn_sakn sbi=sakn_sakn sbi=sakn_yarn sbi=yarn_1de sbi=1de_m sbi=m_buluscaz sbi=buluscaz_konut sbi=konut_ama sbi=ama_unutmak 
+sasbi=sanal_alem sbi=alem_kutlanmas sbi=kutlanmas_hi sbi=hi_Ho sbi=Ho_deil sbi=deil_gittike sbi=gittike_iletiimsizleiyoruz 
+sasbi=sanrm_olmak sbi=olmak_en sbi=en_abuk sbi=abuk_film sbi=film_seyretmek sbi=seyretmek_baydm sbi=baydm_Cu sbi=Cu_Cu 
+hesbi=herkese_gnaydn sbi=gnaydn_Herkese sbi=Herkese_gnaydn sbi=gnaydn_Ben sbi=Ben_h?l? sbi=h?l?_hastaym 
+sesbi=sekmek_dikkat sbi=dikkat_etmek sbi=etmek_kendinee sbi=kendinee_cok sbi=cok_gecmis sbi=gecmis_olmak sbi=olmak_ah sbi=ah_bilemek 
+sesbi=se_gelmek sbi=gelmek_snava sbi=snava_iki sbi=iki_gn sbi=gn_kala sbi=kala_hasta sbi=hasta_olmak sbi=olmak_iyi sbi=iyi_mi 
+sesbi=sevmek_ya sbi=ya_ka sbi=ka_yenilgi sbi=yenilgi_var sbi=var_syle sbi=syle_mrde sbi=mrde_Allah sbi=Allah_akna 
+sisbi=siz_arma sbi=arma_nazl sbi=nazl_hanm sbi=hanm_ayp sbi=ayp_etmiler sbi=etmiler_biraz sbi=biraz_siz 
+sosbi=sonunda_biz sbi=biz_burada sbi=burada_ar sbi=ar_Pazar sbi=Pazar_kart sbi=kart_gelmek sbi=gelmek_yardma 
+susbi=su_anmak sbi=anmak_hayat sbi=hayat_tek sbi=tek_mutlulugum sbi=mutlulugum_3 sbi=3_gun sbi=gun_sonra sbi=sonra_Ankara sbi=Ankara_olacak sbi=olacak_olmak sbi=olmak_beklenti sbi=beklenti_bile sbi=bile_fakir 
+susbi=sure_fizik sbi=fizik_ders sbi=ders_yardmc sbi=yardmc_olmak sbi=olmak_diye sbi=diye_dnmstm sbi=dnmstm_ge sbi=ge_olmak 
+sksbi=skkn_lakin sbi=lakin_neden sbi=neden_bilmek sbi=bilmek_ok sbi=ok_skldm sbi=skldm_Be sbi=Be_bu sbi=bu_lkeden 
+snsbi=snavna_hazrlanmann sbi=hazrlanmann_ikenceye sbi=ikenceye_dnmesi sbi=dnmesi_tpa sbi=tpa_giren sbi=giren_tpa sbi=tpa_girmek 
+tasbi=tanr_uanda sbi=uanda_Be sbi=Be_cezalandryo sbi=cezalandryo_ya sbi=ya_da sbi=da_gnsu sbi=gnsu_nal sbi=nal_bilemiycem 
+Aksbi=Akl_olmak sbi=olmak_kendi sbi=kendi_saklasn sbi=saklasn_yoksa sbi=yoksa_o sbi=o_akln sbi=akln_alrm 
+tesbi=tek_tek sbi=tek_yolladim sbi=yolladim_galba sbi=galba_bilmiorum sbi=bilmiorum_telefondn sbi=telefondn_toplu sbi=toplu_nasi sbi=nasi_yollanio sbi=yollanio_diye 
+twsbi=twitterm_ifre sbi=ifre_yanl sbi=yanl_demek sbi=demek_her sbi=her_sefer sbi=sefer_resetlemek sbi=resetlemek_zor sbi=zor_kalyorum sbi=kalyorum_of 
+ufsbi=uff_sanrm sbi=sanrm_yine sbi=yine_hasta sbi=hasta_olmak sbi=olmak_off sbi=off_off sbi=off_hi sbi=hi_sras sbi=sras_deildi 
+ulsbi=ulatnn_u sbi=u_an sbi=an_farkna sbi=farkna_vardm sbi=vardm_daha sbi=daha_sabah sbi=sabah_kahvalts sbi=kahvalts_yapmadm sbi=yapmadm_Be 
+uysbi=uyku_dzenim sbi=dzenim_mahvolmus sbi=mahvolmus_durum sbi=durum_sinav sbi=sinav_gectii sbi=gectii_h?l? sbi=h?l?_uyuyamiyorum 
+uysbi=uyumak_bile sbi=bile_enir sbi=enir_durumdaym 
+uysbi=uyumak_ya sbi=ya_Biri sbi=Biri_Be sbi=Be_kaldrsn sbi=kaldrsn_ve sbi=ve_spor sbi=spor_gtrsn sbi=gtrsn_neolurr 
+uusbi=uucam_yanna sbi=yanna_Be sbi=Be_zledim sbi=zledim_pek sbi=pek_ooookk sbi=ooookk_pztsi sbi=pztsi_Ba sbi=Ba_gelmek 
+vasbi=var_zledim sbi=zledim_ki sbi=ki_zledim sbi=zledim_lan sbi=lan_hselim sbi=hselim_ders sbi=ders_h 
+yasbi=ya_Aylin sbi=Aylin_hoca sbi=hoca_sela sbi=sela_syle sbi=syle_Melislerin sbi=Melislerin_dev sbi=dev_kabul sbi=kabul_olmak sbi=olmak_de 
+S sbi=S_son sbi=son_yllarda sbi=yllarda_bu sbi=bu_kdr sbi=kdr_kt sbi=kt_bi sbi=bi_gn sbi=gn_yaamamtm sbi=yaamamtm_herh?lde 
+yasbi=ya_Be sbi=Be_isim sbi=isim_yanna sbi=yanna_is sbi=is_koymak sbi=koymak_lazm sbi=lazm_bakmak sbi=bakmak_are sbi=are_yok 
+yasbi=yatmadin_m sbi=m_h?l? sbi=h?l?_mao sbi=mao_sevmek sbi=sevmek_demek sbi=demek_kz sbi=kz_deil 
+yasbi=yamurlu_hava sbi=hava_digitrkn sbi=digitrkn_bozulmasndan sbi=bozulmasndan_nefret sbi=nefret_etmek sbi=etmek_Yamuru 
+yasbi=yaadm_uzay sbi=uzay_zaman sbi=zaman_boyut sbi=boyut_kargaasna sbi=kargaasna_i sbi=i_izlemek sbi=izlemek_sonra sbi=sonra_eklemek sbi=eklemek_yeni sbi=yeni_soru sbi=soru_iaretleriyle sbi=iaretleriyle_uyku sbi=uyku_dalmak sbi=dalmak_abas 
+yesbi=yemeinde_yourt sbi=yourt_yermek sbi=yermek_uyuuyorsun sbi=uyuuyorsun_fena sbi=fena_ok sbi=ok_fena 
+yisbi=yine_kafa sbi=kafa_bi sbi=bi_yanmak sbi=yanmak_dt sbi=dt_yine sbi=yine_okul sbi=okul_hay sbi=hay_aksi 
+yesbi=yemek_do sbi=do_gibi sbi=gibi_olacaksn sbi=olacaksn_okadar sbi=okadar_ikolata sbi=ikolata_yemek sbi=yemek_iinde sbi=iinde_birikmek 
+yosbi=yok_ya sbi=ya_gayet sbi=gayet_usenip sbi=usenip_gtmedim sbi=gtmedim_kot sbi=kot_bi sbi=bi_ogrenciyim 
+yosbi=yorgun_vee sbi=vee_bitkinn sbi=bitkinn_bu sbi=bu_hayat sbi=hayat_yormak sbi=yormak_benii sbi=benii_ya 
+yusbi=yuruyerek_gitmek sbi=gitmek_insanlari sbi=insanlari_var sbi=var_yaa sbi=yaa_cok sbi=cok_kiskaniyorum sbi=kiskaniyorum_lan 
+ezsbi=ezel_yerine sbi=yerine_gnei sbi=gnei_gr sbi=gr_hayal sbi=hayal_krkl sbi=krkl_tava sbi=tava_yapt 
+ocsbi=ocukluunda_bo sbi=bo_zamanlarmda sbi=zamanlarmda_kitap sbi=kitap_okumay sbi=okumay_sevmek sbi=sevmek_kalbn sbi=kalbn_renip sbi=renip_rahat sbi=rahat_eren sbi=eren_lkesine sbi=lkesine_gnaydn 
+lmsbi=lmedim_burdaym sbi=burdaym_Bu sbi=Bu_ara sbi=ara_durum sbi=durum_kark sbi=kark_pek sbi=pek_bi sbi=bi_tel? sbi=tel?_ierisindeyim 
+eksbi=ek_girmek sbi=girmek_Ba sbi=Ba_feci sbi=feci_batyo sbi=batyo_majezik sbi=majezik_al sbi=al_iyi sbi=iyi_gelmek 
+oksbi=ok_daha sbi=daha_iyi sbi=iyi_olabilir sbi=olabilir_beklediim sbi=beklediim_gibi sbi=gibi_olmad sbi=olmad_valla 
+oksbi=ok_para sbi=para_zer sbi=zer_nihihihih sbi=nihihihih_bir sbi=bir_sure sbi=sure_sonra sbi=sonra_kaybolmak sbi=kaybolmak_ama sbi=ama_o 
+oksbi=ok_yorgun sbi=yorgun_fener sbi=fener_gol sbi=gol_makinas sbi=makinas_alm sbi=alm_final sbi=final_can sbi=can_skyor 
+kssbi=ksrsem_gzlerim sbi=gzlerim_doluyo sbi=doluyo_duygulanp sbi=duygulanp_alamak sbi=alamak_istemek sbi=istemek_falan sbi=falan_bhhh 
+resbi=rendiinizde_Acaba sbi=Acaba_bu sbi=bu_sikayetvar sbi=sikayetvar_Co sbi=Co_kime sbi=kime_ikayet sbi=ikayet_etmeLi 
+stsbi=stn_bir sbi=bir_zek? sbi=zek?_gerekmek sbi=gerekmek_oysa sbi=oysa_ki sbi=ki_Ba sbi=Ba_saolsun sbi=saolsun_ya 
+ETsbi=ETT_Otobs sbi=Otobs_Orta sbi=Orta_iki sbi=iki_blnm sbi=blnm_Allahtan sbi=Allahtan_fazla sbi=fazla_yolcu sbi=yolcu_yokmu 
+blsbi=ble_uyumak sbi=uyumak_kalmak sbi=kalmak_devam sbi=devam_etmek sbi=etmek_snfta sbi=snfta_kalcam sbi=kalcam_devamszlktan 
+kisbi=ki_yakas sbi=yakas_bi sbi=bi_aramak sbi=aramak_gelmek sbi=gelmek_prostat sbi=prostat_olasca sbi=olasca_hemoroidden sbi=hemoroidden_oturamyasca 
+ndsbi=ndii_gktanda sbi=gktanda_karanlkta sbi=karanlkta_kalmak sbi=kalmak_Philae sbi=Philae_uzay sbi=uzay_aracn sbi=aracn_ok sbi=ok_iyi sbi=iyi_anlyorum sbi=anlyorum_zira sbi=zira_biz sbi=biz_Kayal sbi=Kayal_kamps sbi=kamps_de sbi=de_dnyann sbi=dnyann_karanlk sbi=karanlk_ksmnda sbi=ksmnda_kalyor 
+ntsbi=nterstaller_dsn sbi=dsn_artk sbi=artk_lan sbi=lan_sinema sbi=sinema_tatmin sbi=tatmin_etmek 
+ntsbi=nterstaller_film sbi=film_izlemek sbi=izlemek_ok sbi=ok_zcldm 
+ntsbi=nterstallera_gitmek sbi=gitmek_doctor sbi=doctor_whonun sbi=whonun_baz sbi=baz_blmlerinin sbi=blmlerinin_birleip sbi=birleip_film sbi=film_olmu sbi=olmu_hal sbi=hal_gibi sbi=gibi_Christoper sbi=Christoper_nolan sbi=nolan_birader sbi=birader_yaktramadm 
+ntsbi=nterstaller_seyretmek sbi=seyretmek_mi sbi=mi_SeyretmeyinSonu sbi=SeyretmeyinSonu_deimeyecek 
+mesbi=mekle_gemiyo sbi=gemiyo_yrek sbi=yrek_acs 
+oksbi=ok_ok sbi=ok_stne sbi=stne_yeter sbi=yeter_kalp sbi=kalp_dayanmyor 
+u sbi=u_interstaller sbi=interstaller_manyakln sbi=manyakln_brakn sbi=brakn_artk sbi=artk_o sbi=o_film sbi=film_efsane sbi=efsane_gzel sbi=gzel_deil sbi=deil_Azck sbi=Azck_fizik sbi=fizik_bilmek sbi=bilmek_siz sbi=siz_bu sbi=bu_kadar sbi=kadar_bylemezdi 
+imsbi=imdi_Leyla sbi=Leyla_ile sbi=ile_Mecnunun sbi=Mecnunun_7 sbi=7_blm sbi=blm_var sbi=var_ama sbi=ama_izlemek 
+kusbi=kuyruk_yldza sbi=yldza_gnderilen sbi=gnderilen_philae sbi=philae_iin sbi=iin_her sbi=her_ey sbi=ey_bouna sbi=bouna_myd sbi=myd_minval sbi=minval_haber sbi=haber_cehalet sbi=cehalet_koku sbi=koku_sebebiyle sbi=sebebiyle_yaklalamyor 
+imsbi=imdi_de sbi=de_Philae sbi=Philae_Ni sbi=Ni_pil sbi=pil_bitmek sbi=bitmek_diye sbi=diye_alyorbu sbi=alyorbu_nasl sbi=nasl_duygusallk sbi=duygusallk_anlamadmbir sbi=anlamadmbir_de sbi=de_ben sbi=ben_kardeim sbi=kardeim_D 
+imsbi=imdi_ya sbi=ya_Mart sbi=Mart_galiba sbi=galiba_kapdan sbi=kapdan_baktrcak sbi=baktrcak_kazmak sbi=kazmak_krek sbi=krek_yaktrcak 
+u sbi=u_dev sbi=dev_bi sbi=bi_bitirmek sbi=bitirmek_biraz sbi=biraz_mat sbi=mat_alcam sbi=alcam_iken sbi=iken_gibi sbi=gibi_yaa 
+Upsbi=Upuzun_soru sbi=soru_yanl sbi=yanl_kmas sbi=kmas_kalp sbi=kalp_kryor 
+Alsbi=Al_it sbi=it_Philae sbi=Philae_de sbi=de_gitmek sbi=gitmek_karbon sbi=karbon_bulmu sbi=bulmu_yine sbi=yine_Bulsanza sbi=Bulsanza_olm sbi=olm_deiik sbi=deiik_bi sbi=bi_element 
+basbi=bakyorum_hemen sbi=hemen_vaay sbi=vaay_demek sbi=demek_bugn sbi=bugn_Be sbi=Be_yemek sbi=yemek_vah sbi=vah_vah 
+Alsbi=Alrm_bakmak sbi=bakmak_akln sbi=akln_pf sbi=pf_artk sbi=artk_blog sbi=blog_ulamak sbi=ulamak_istemek 
+Ansbi=Ankarada_kar sbi=kar_tip sbi=tip_ekli sbi=ekli_yayor sbi=yayor_ODT sbi=ODT_ierisi sbi=ierisi_ok sbi=ok_vahim 
+Arsbi=Arkada_ne sbi=ne_bu sbi=bu_arj sbi=arj_olayndan sbi=olayndan_ektiimiz 
+Aysbi=Ay_ezik sbi=ezik_interstaller sbi=interstaller_a sbi=a_yeni sbi=yeni_mi sbi=mi_Gidiyon sbi=Gidiyon_Git sbi=Git_izlede sbi=izlede_azck sbi=azck_ufuk sbi=ufuk_alsn sbi=alsn_pezevenk 
+Aysbi=Aydoan_Oflu sbi=Oflu_Hayatn sbi=Hayatn_Kaybetmi 
+BBsbi=BBCde_en sbi=en_ok sbi=ok_okumak sbi=okumak_haber sbi=haber_kuyruk sbi=kuyruk_yldza sbi=yldza_in sbi=in_yapmak sbi=yapmak_Philaenin sbi=Philaenin_grntleri sbi=grntleri_ile sbi=ile_ilgi sbi=ilgi_biz sbi=biz_ise sbi=ise_Volkann sbi=Volkann_Ba sbi=Ba_kfredenleri sbi=kfredenleri_tek sbi=tek_tek 
+Basbi=Bana_artk sbi=artk_ark sbi=ark_da sbi=da_iyi sbi=iyi_gelmiyo 
+Basbi=Baz_hastalklar sbi=hastalklar_hi sbi=hi_gemez sbi=gemez_bir sbi=bir_sre sbi=sre_kaybolmak sbi=kaybolmak_zaman sbi=zaman_gelmek sbi=gelmek_yeniden sbi=yeniden_Orta sbi=Orta_kar 
+Basbi=Bazlar_doru sbi=doru_grsn sbi=grsn_diye sbi=diye_biz sbi=biz_nmz sbi=nmz_grmekten sbi=grmekten_vazgetik sbi=vazgetik_se sbi=se_neden sbi=neden_bahsetmek sbi=bahsetmek_Kimse sbi=Kimse_masal sbi=masal_anlatmasn sbi=anlatmasn_hadi sbi=hadi_iyi sbi=iyi_gece 
+Besbi=Ben_kalorifer sbi=kalorifer_yannda sbi=yannda_yorum sbi=yorum_peki sbi=peki_ev 
+Fnsbi=Fndk_zannetmek sbi=zannetmek_azmak sbi=azmak_attm sbi=attm_eylemek sbi=eylemek_nohut sbi=nohut_kyor 
+Besbi=Ben_yeni sbi=yeni_sezon sbi=sezon_se sbi=se_70 sbi=70_indirim sbi=indirim_yermek sbi=yermek_dm sbi=dm_kazak 
+Besbi=Beni_bugn sbi=bugn_azad sbi=azad_etmek sbi=etmek_ok sbi=ok_yormak sbi=yormak_off 
+Bisbi=Bide_interstaller sbi=interstaller_spoiler sbi=spoiler_i sbi=i_yemek sbi=yemek_tamam 
+Bisbi=Bir_psikolou sbi=psikolou_delirmek sbi=delirmek_psikoloji 
+Bisbi=Birileri_1 sbi=1_milyar sbi=milyar_1000lerce sbi=1000lerce_mil sbi=mil_uzak sbi=uzak_kuyruk sbi=kuyruk_yldza sbi=yldza_uydu sbi=uydu_gnderiyorBiz sbi=gnderiyorBiz_1000 sbi=1000_odal sbi=odal_Saray sbi=Saray_yaptryoruz 
+Bisbi=Bizim_Devrim sbi=Devrim_Arabalarna sbi=Arabalarna_dnd sbi=dnd_bu sbi=bu_iGlgeyi sbi=iGlgeyi_hesaplamak 
+Bosbi=Boyhood_En sbi=En_yi sbi=yi_zgn sbi=zgn_Senaryo sbi=Senaryo_aday sbi=aday_olmu sbi=olmu_Lan sbi=Lan_dnyada sbi=dnyada_minimum sbi=minimum_35 sbi=35_milyar sbi=milyar_kiinin sbi=kiinin_hayat sbi=hayat_film sbi=film_gibi sbi=gibi_zaten sbi=zaten_Adam sbi=Adam_cinnet sbi=cinnet_getirmek 
+Bosbi=Boyhoodla_basladim sbi=basladim_tavsiye sbi=tavsiye_uzerine sbi=uzerine_guzel sbi=guzel_ama sbi=ama_fazla sbi=fazla_cinsiyetci sbi=cinsiyetci_insan sbi=insan_bi sbi=bi_anne sbi=anne_yuklenirken sbi=yuklenirken_azcik sbi=azcik_insafli sbi=insafli_olur 
+Bosbi=Boyhoodu_izlemek sbi=izlemek_istemek sbi=istemek_ama sbi=ama_165dk sbi=165dk_olmas sbi=olmas_sknt 
+Bosbi=Boyhoodun_en sbi=en_sevdiim sbi=sevdiim_karakter sbi=karakter_emektar sbi=emektar_anne sbi=anne_ocuklarnn sbi=ocuklarnn_gelecei sbi=gelecei_iin sbi=iin_her sbi=her_eyi sbi=eyi_yapt sbi=yapt_ve sbi=ve_1828228 sbi=1828228_ker sbi=ker_evlenmek 
+Nesbi=Ne_demek sbi=demek_arjm sbi=arjm_bitmek sbi=bitmek_ya sbi=ya_Yazklar sbi=Yazklar_olmak sbi=olmak_Ben sbi=Ben_bu sbi=bu_ilikiye sbi=ilikiye_10 sbi=10_ylm sbi=ylm_vermek sbi=vermek_10 sbi=10_yldr sbi=yldr_tayorum sbi=tayorum_Be sbi=Be_se sbi=se_67pin sbi=67pin_Philaee sbi=Philaee_att sbi=att_son sbi=son_mesaj 
+Bosbi=Boaz_arsndan sbi=arsndan_gebermek sbi=gebermek_Ba sbi=Ba_arsndan sbi=arsndan_u sbi=u_anmak sbi=anmak_lebilirim 
+Brsbi=Bravo_Ba sbi=Ba_lk sbi=lk_ders sbi=ders_Be sbi=Be_girmek sbi=girmek_istemek 
+Busbi=Bu_Ba sbi=Ba_ars sbi=ars_ldren sbi=ldren_tarz 
+Busbi=Bu_ne sbi=ne_kardeim 
+Busbi=Bu_saat sbi=saat_sonra sbi=sonra_almak sbi=almak_istemek sbi=istemek_ev sbi=ev_gitmek sbi=gitmek_istemek 
+Busbi=Buz_gibi sbi=gibi_sinema sbi=sinema_salon sbi=salon_uc sbi=uc_bucuk sbi=bucuk_saat sbi=saat_boyunca sbi=boyunca_semsert sbi=semsert_koltuk sbi=koltuk_hic sbi=hic_kalkmak sbi=kalkmak_interstaller sbi=interstaller_izlemek 
+Cbsbi=Cbbeli_Ahmet sbi=Ahmet_Hocadan sbi=Hocadan_uzay sbi=uzay_aratrmalar sbi=aratrmalar_yorum sbi=yorum_Manyak sbi=Manyak_manyak sbi=manyak_ilmek sbi=ilmek_boa sbi=boa_masraf 
+DUsbi=DUNYA_GUCU sbi=GUCU_Philaenin sbi=Philaenin_twitter sbi=twitter_sayfasi sbi=sayfasi_INDIM sbi=INDIM_mesajini sbi=mesajini_10dilde sbi=10dilde_tivit sbi=tivit_atti sbi=atti_hic sbi=hic_biri sbi=biri_turkce sbi=turkce_degil sbi=degil_DUNYA sbi=DUNYA_GUCU sbi=GUCU_BITTI 
+Desbi=Demek_ki sbi=ki_dnmek sbi=dnmek_gerekmek sbi=gerekmek_yaynlarsn sbi=yaynlarsn_ama sbi=ama_biz sbi=biz_gremiyoruz 
+Elsbi=Elim_arpt sbi=arpt_yanllkla sbi=yanllkla_parlakl sbi=parlakl_atm sbi=atm_gozlerimi sbi=gozlerimi_kaybetcem sbi=kaybetcem_sandm sbi=sandm_bi sbi=bi_anmak sbi=anmak_be 
+sesbi=se_ta sbi=ta_toprak sbi=toprak_ekmek sbi=ekmek_mi sbi=mi_gitmek sbi=gitmek_oraya sbi=oraya_milyon sbi=milyon_maki sbi=maki_var sbi=var_manzara sbi=manzara_bakmak sbi=bakmak_pehh 
+Elsbi=Elizabeth_Taylor sbi=Taylor_lm sbi=lm_hep sbi=hep_yaayacak sbi=yaayacak_sanrdm sbi=sanrdm_h?lbuki sbi=h?lbuki_o 
+Evsbi=Eve_gelmek sbi=gelmek_aldm sbi=aldm_dergi sbi=dergi_kapan sbi=kapan_grdm sbi=grdm_resim sbi=resim_ok sbi=ok_iindeyim 
+Evsbi=Evrendeki_tm sbi=tm_element sbi=element_bilemek sbi=bilemek_olmak sbi=olmak_ihtimal sbi=ihtimal_canm sbi=canm_skyor sbi=skyor_Meteorlar sbi=Meteorlar_yeni sbi=yeni_element sbi=element_getirmek sbi=getirmek_Varsa sbi=Varsa_yoksa sbi=yoksa_karbon sbi=karbon_azot 
+FAsbi=FATURALI_HATTA sbi=HATTA_GETIM sbi=GETIM_AMA sbi=AMA_FATURAYA sbi=FATURAYA_EK sbi=EK_TELEFON sbi=TELEFON_VERMEDNZ 
+Gasbi=Garip_hissediyom 
+Gisbi=Gidince_de sbi=de_dnmek sbi=dnmek_iimden sbi=iimden_gelmek sbi=gelmek_hava sbi=hava_da sbi=da_yardmc sbi=yardmc_olmak 
+Gosbi=Gone_Girl sbi=Girl_ve sbi=ve_nterstaller sbi=nterstaller_nasl sbi=nasl_en sbi=en_iyi sbi=iyi_film sbi=film_aday sbi=aday_olamaz 
+Grsbi=Gravity_var sbi=var_interstaller sbi=interstaller_yok sbi=yok_mu sbi=mu_Grdm sbi=Grdm_en sbi=en_sam sbi=sam_oscar 
+Grsbi=Grmedin_mi sbi=mi_gzlerimde sbi=gzlerimde_yamur sbi=yamur_vard 
+Hasbi=Hayaller_10 sbi=10_yl sbi=yl_bekleyiten sbi=bekleyiten_sonra sbi=sonra_uzamak sbi=uzamak_Gnderilen sbi=Gnderilen_hayat sbi=hayat_da sbi=da_2 sbi=2_gn sbi=gn_sonra sbi=sonra_Ni sbi=Ni_arjnn sbi=arjnn_bitmek 
+2 sbi=2_sezon sbi=sezon_bitmek sbi=bitmek_3 sbi=3_sezon sbi=sezon_balamas sbi=balamas_biraz sbi=biraz_gecikebilirmi 
+Hesbi=Hereyin_pil sbi=pil_bir sbi=bir_gn sbi=gn_bitmek sbi=bitmek_zlme sbi=zlme_Philaecik 
+Kasbi=Kabul_etmek sbi=etmek_hepimiz sbi=hepimiz_hep sbi=hep_hak sbi=hak_etmek sbi=etmek_deer sbi=deer_vermek 
+Kasbi=Kafasn_yas sbi=yas_koyduu sbi=koyduu_an sbi=an_uyumak sbi=uyumak_deilsiniz sbi=deilsiniz_de sbi=de_Be sbi=Be_yle 
+Kesbi=Kendim_hari sbi=hari_herkes sbi=herkes_moral sbi=moral_dzeltebiliyorum 
+Kusbi=Kuyruklu_Yldz sbi=Yldz_Kaifi sbi=Kaifi_Philae sbi=Philae_le sbi=le_letiim sbi=letiim_Kesildi 
+Kusbi=Kuyruklu_yldza sbi=yldza_inmek sbi=inmek_philae sbi=philae_uzay sbi=uzay_modlnn sbi=modlnn_enerji sbi=enerji_bitmek sbi=bitmek_diye sbi=diye_sevinmek sbi=sevinmek_grdm sbi=grdm_Holeyyy sbi=Holeyyy_geliemicezz sbi=geliemicezz_kefedemicez sbi=kefedemicez_heheyy sbi=heheyy_a 
+Kusbi=Kuyrukluyldza_inmek sbi=inmek_Philae sbi=Philae_aracnn sbi=aracnn_Ba sbi=Ba_dert 
+Kzsbi=Kzmn_arka sbi=arka_Ayenin sbi=Ayenin_durum sbi=durum_maalesef sbi=maalesef_daha sbi=daha_kt sbi=kt_Sanrm sbi=Sanrm_uyanmak 
+Lesbi=Lets_start sbi=start_to sbi=to_ti sbi=ti_of sbi=of_UfUckkk sbi=UfUckkk_in sbi=in_a sbi=a_Midtermm 
+Masbi=Mart_gelmek sbi=gelmek_ya sbi=ya_Facebook sbi=Facebook_iliki sbi=iliki_durum sbi=durum_stabilite sbi=stabilite_srdremez sbi=srdremez_oldu 
+Fesbi=Feysbukada_yazk sbi=yazk_lan sbi=lan_ok sbi=ok_zlyorum sbi=zlyorum_o sbi=o_bu sbi=bu_durum 
+Nesbi=Ne_demek sbi=demek_hayat sbi=hayat_Beni sbi=Beni_ciddi sbi=ciddi_almak 
+Nesbi=Neden_interstaller sbi=interstaller_bu sbi=bu_kadar sbi=kadar_gz sbi=gz_ard sbi=ard_etmek sbi=etmek_oscar 
+Nesbi=Nerdeyse_1 sbi=1_haftadr sbi=haftadr_dsar sbi=dsar_ckmyorum sbi=ckmyorum_asosyal sbi=asosyal_olmak sbi=olmak_bu sbi=bu_gerekmek 
+Nosbi=Nolan_ve sbi=ve_interstaller sbi=interstaller_n sbi=n_aday sbi=aday_olmad sbi=olmad_salaka sbi=salaka_bir sbi=bir_oscar sbi=oscar_olucakBelkide sbi=olucakBelkide_son sbi=son_yllarda sbi=yllarda_yaplan sbi=yaplan_en sbi=en_iyi sbi=iyi_film sbi=film_ama sbi=ama_aday sbi=aday_olamyo sbi=olamyo_amk sbi=amk_byle sbi=byle_iin 
+O sbi=O_deil sbi=deil_de sbi=de_ok sbi=ok_pis sbi=pis_twitterdan sbi=twitterdan_soudum 
+OFsbi=OFF_of sbi=of_herkes sbi=herkes_yatmak sbi=yatmak_Be sbi=Be_neden sbi=neden_nbet sbi=nbet_tutmak 
+Ofsbi=Of_insann sbi=insann_gzne sbi=gzne_lens sbi=lens_mi sbi=mi_yapr sbi=yapr_ya sbi=ya_durmak sbi=durmak_yermek 
+Olsbi=Olay_bu sbi=bu_ah sbi=ah_nasl sbi=nasl_istemek sbi=istemek_uyumay sbi=uyumay_ama sbi=ama_dev sbi=dev_var 
+Orsbi=Ortalama_6 sbi=6_haftadr sbi=haftadr_neredeyse sbi=neredeyse_her sbi=her_gnm sbi=gnm_interstallera sbi=interstallera_gitmek sbi=gitmek_plan sbi=plan_yapp sbi=yapp_son sbi=son_an sbi=an_gitmek sbi=gitmek_geiyor 
+Pesbi=Peki_bii sbi=bii_sorcam sbi=sorcam_gerek sbi=gerek_baba sbi=baba_parasyla sbi=parasyla_bu sbi=bu_yapmak sbi=yapmak_iine sbi=iine_siniyo sbi=siniyo_mu sbi=mu_lan sbi=lan_Benim sbi=Benim_kz sbi=kz_hal sbi=hal_sinmiyo sbi=sinmiyo_Ne sbi=Ne_genilik sbi=genilik_ne sbi=ne_rahatlk sbi=rahatlk_Tebrik 
+azsbi=az_nce sbi=nce_ok sbi=ok_iyi sbi=iyi_bir sbi=bir_kitaplk sbi=kitaplk_kardm sbi=kardm_iime sbi=iime_oturmak 
+Phsbi=Philae_16 sbi=16_milyar sbi=milyar_do sbi=do_harcanyor sbi=harcanyor_ve sbi=ve_3 sbi=3_gnde sbi=gnde_pil sbi=pil_bitmek sbi=bitmek_3 sbi=3_gn sbi=gn_bile sbi=bile_mthi sbi=mthi_bir sbi=bir_ge sbi=ge_ama sbi=ama_insann sbi=insann_sinir sbi=sinir_bozulmak sbi=bozulmak_it sbi=it_D 
+Phsbi=Philae_Kuyruklu sbi=Kuyruklu_Yldzn sbi=Yldzn_kuyruunda sbi=kuyruunda_Glgede sbi=Glgede_kalm sbi=kalm_nazar sbi=nazar_etmek sbi=etmek_iyi sbi=iyi_mi 
+Phsbi=Philae_icin sbi=icin_cok sbi=cok_uzuluyorum 
+Phsbi=Philae_ne sbi=ne_zaman sbi=zaman_uyanmak sbi=uyanmak_acaba sbi=acaba_Fena sbi=Fena_zledik sbi=zledik_keratay 
+Phsbi=Philae_robot sbi=robot_67P sbi=67P_kuyruk sbi=kuyruk_yldzna sbi=yldzna_inmek sbi=inmek_baz sbi=baz_sorun sbi=sorun_yaad sbi=yaad_Bilim sbi=Bilim_adam sbi=adam_imdi sbi=imdi_ne sbi=ne_yapmak 
+Phsbi=Philaeda_umut sbi=umut_bakmak sbi=bakmak_bahar sbi=bahar_kald 
+Phsbi=Philaenin_dramna sbi=dramna_yrek sbi=yrek_dayanmak 
+Rasbi=Rahat_yok sbi=yok_sanrm sbi=sanrm_bu sbi=bu_hayat sbi=hayat_Bir sbi=Bir_ahize sbi=ahize_nasl sbi=nasl_actr sbi=actr_canm 
+Rosbi=Rosettann_philae sbi=philae_bitmek sbi=bitmek_mi sbi=mi_ssz sbi=ssz_kuyruk sbi=kuyruk_yldz sbi=yldz_kald sbi=kald_m sbi=m_nasa sbi=nasa_cn sbi=cn_ald sbi=ald_m sbi=m_inmek sbi=inmek_uzay sbi=uzay_yrtlr 
+Rosbi=Rouxtan_niye sbi=niye_bu sbi=bu_kadar sbi=kadar_nefret sbi=nefret_etmek sbi=etmek_herkes sbi=herkes_sever 
